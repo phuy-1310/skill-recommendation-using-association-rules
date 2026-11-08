@@ -1,0 +1,3771 @@
+.NET
+.NET (C#, ASP.NET, .NET Core)
+.NET C#
+.NET Core
+.NET Core MVC
+.NET Framework
+.NET MVC
+.NET/C#
+.NETCore
+.Net
+.Net (C#, VB.NET)
+.Net Core
+.Net core
+.NetCore
+2+ years of experience as a DevOps Engineer or similar role
+2D Animation
+2D Animation (traditional & Digital)
+2D Art
+3D
+3D Animation
+3D Artist
+3D Coat
+3D Max
+3D Modeling
+3D libraries
+3D max
+3D modeling
+3DMAX
+3DMax
+3DSMAX
+3DSmax
+3Dmax
+3Ds Max
+3DsMax
+3d Modeling
+3ds Max
+3dsMax
+3dsmax
+7 QC tools trong SPC
+A/B testing
+ABAP
+ABAP Restful web services
+ACL
+AD
+AD/Email
+ADF
+AE
+AI
+AI (Azure OpenAI and GenAI)
+AI (ChatGPT, Gemini)
+AI (MJ, Kling...)
+AI (Midjourney, Stable Diffusion, Kling...)
+AI / Machine Learning
+AI Thiết kế
+AI application in work
+AI caption/image tool
+AI hỗ trợ sáng tạo (ChatGPT, DALL·E)
+AI photo (Leonardo, RunWay, Midjourney)
+AI practices: Github Copilot
+AI tools
+AI tools (ChatGPT, Claude, Notion AI, Zapier)
+AI tools (ChatGPT, Copilot, RPA)
+AI tools (e.g., ChatGPT, Gemini)
+AI trong thiết kế
+AI trí tuệ nhân tạo
+AI và Học máy
+AI/ML knowledge and benchmark tool experience (MLPerf)
+AI/ML solutions
+AIX
+AJAX
+AKS
+AL
+AMP Script
+ANSI SQL
+API
+API (REST/gRPC)
+API (Restful, SOAP)
+API Gateway
+API Gateway (Kong)
+API Integration
+API RESTful
+API Restful
+API Testing
+API Web Services
+API design
+API design and management
+API integration
+API test (Postman)
+API testing
+APIs
+ARM Azure
+ARM Cortex-M
+ASP.NET
+ASP.NET (Core)
+ASP.NET Core
+ASP.NET MVC
+ASP.NET MVC core
+ASP.NET MVC/Web API
+ASP.Net
+ASP.net
+AUTOSAR
+AUTOSAR Classic
+AWS
+AWS (EC2, Lambda, S3, RDS)
+AWS (EC2, S3, Lambda, RDS, API Gateway)
+AWS (IAM, VPC, Fargate, Cloudwatch, ELB)
+AWS (Lambda, API Gateway, SQS, SNS, Kubernetes, EC2, Aurora)
+AWS Agent Orchestrator
+AWS Bedrock
+AWS Cloud (EC2, S3, Dynamo, Aurora Postgresql, CloudWatch)
+AWS Cognito
+AWS Glue
+AWS IoTCore
+AWS Lambda
+AWS S3
+AWS SES
+AWS Security Hub
+AWS cloud platform
+AWS cloud services
+AWS services (e.g., EC2, S3, RDS, EKS, Lambda, KMS, Cognito)
+AWS/Azure security services
+AWS/GCP/Azure
+Access Control
+Accessibility
+Account and territory management
+Accounting/Finance best practices
+Actionscript 3.0
+Active Directory
+ActiveMQ
+Activity diagram
+Acunetix
+Administering LAN/WAN security
+Admob
+Adobe
+Adobe (AI, PS, ID, AE, LrC…)
+Adobe After Effect
+Adobe After Effects
+Adobe Audition
+Adobe CS
+Adobe Collection
+Adobe Creative Suite
+Adobe Creative Suite (Illustrator, Photoshop, InDesign)
+Adobe Creative Suite (Illustrator, Photoshop, InDesign, Premiere Pro, After Effect)
+Adobe Creative Suite (Illustrator, Photoshop, Premiere)
+Adobe Creative Suite (Photoshop, Illustrator)
+Adobe Creative Suite (Photoshop, Illustrator, After Effects)
+Adobe Creative Suite (Photoshop, Illustrator, InDesign)
+Adobe Creative Suite (Photoshop, Illustrator, InDesign, After Effects, Premiere Pro)
+Adobe Effect
+Adobe Firefly
+Adobe Flash
+Adobe Illustrator
+Adobe InDesign
+Adobe InDesign (ID)
+Adobe Indesign
+Adobe Lightroom
+Adobe Photoshop
+Adobe Photoshop CC/CS6
+Adobe Premiere
+Adobe Premiere Pro
+Adobe Suite
+Adobe Suite (Photoshop, Illustrator, Premiere, After Effect)
+Adobe XD
+Adobe suite
+Ads SDK (AdMob, Unity Ads)
+Aerospike
+After Effect
+After Effects
+After Effects (AE)
+After effect
+Agile
+Agile Methodologies
+Agile frameworks (Scrum, Kanban, SAFe)
+Agile methodologies
+Agile project management tools (Jira, Trello, etc.)
+Agile transformation strategies
+Agile/Scrum
+Agile/Scrum development methodologies
+Agile/Scrum methodologies
+Ai
+Airbyte
+Airflow
+Airtable AI
+Ajax
+Alembic
+Alicloud services (ECS, OSS, AKS, VPC)
+Aliyun
+Alphacam
+Altium Designer
+Am hiểu checkpoint và quy trình mở khóa
+Am hiểu dữ liệu
+Am hiểu internet, mạng xã hội
+Am hiểu sâu sắc thị trường B2B
+Am hiểu sản phẩm và thị trường Công nghệ thông tin
+Am hiểu về Apache, Nginx, MariaDB(MySQL), MongoDB hoặc NoSQL DB khác
+Am hiểu về SEO
+Am hiểu về các giải pháp phần mềm bán hàng
+Am hiểu về mặt kỹ thuật, nghiệp vụ của sản phẩm, dịch vụ
+Am hiểu về nghiệp vụ tài chính, ngân hàng
+Amazon Connect
+Amazon Web Services
+Amazon linux
+An toàn bảo mật
+An toàn bảo mật thông tin
+Analytical tools
+Android
+Android (Kotlin/Java)
+Android Components
+Android HAL development
+Android Java
+Android Jetpack
+Android Jetpack libraries
+Android SDK
+Android Services
+Android Studio
+Android studio
+Angular
+Angular (từ phiên bản 10 trở lên)
+Angular (từ version 9 trở lên)
+Angular - TypeScript
+Angular 10
+Angular 10+
+Angular JS
+Angular Material
+Angular Universal
+Angular/AngularJS
+Animation của Unity
+Animation software
+Ansible
+Anti virus
+Antivirus
+Apache
+Apache Airflow
+Apache Flink
+Apache Hadoop
+Apache JMeter
+Apache Kafka
+Apache Spark
+Apache Superset
+Apex
+App Store
+App annie
+AppArmor
+AppStoreSpy
+AppTweak
+Appium
+Apple Search Ads
+Appscript
+Aqua
+Aras
+ArcGIS
+Argo CD
+ArgoCD
+Artifactory
+Asana
+Asp Net
+Assembly
+AssetBundles
+Audio signal processing
+Audio/Video codec
+Authentication/Authorization (Keycloak)
+Auto CAD
+Auto Cad
+Auto Layout
+Auto-layout
+AutoCAD
+AutoCAD 2D
+AutoCAD 3D
+AutoCAD cơ bản
+AutoCad
+AutoGen
+Autocad
+Automation
+Automation Test
+Automation Test (API, Web, Mobile, Performance, Security)
+Automation Testing
+Automation Testing (Java, Python, C#)
+Automation test
+Automation testing
+Automation testing framework
+Automation tools
+Automotive Domain tools (CANoe, CANalyser, CAPL)
+Axure
+Azure
+Azure (Microsoft Fabric, Azure Synapse, Databricks, Azure Data Factory)
+Azure AD
+Azure AD Connect
+Azure Cloud
+Azure Data Factory
+Azure Defender
+Azure DevOps
+Azure Monitor
+Azure SQL
+Azure Synapse
+B2B
+B2B sales
+B2B sales process
+B2C
+BASIC
+BAZIS
+BGP
+BHXH
+BI Publisher
+BI tool
+BIM 360
+BIM360
+BIND
+BPA
+BPM
+BPM (IBM BPM, Camunda hoặc tương tự)
+BPMN
+BPMN 2.0
+BPMN tools
+BRD/SRS
+BSP
+BSP Linux
+Babel
+Backend
+Backend for Frontend (BFF)
+Backend với Spring Boot 3.x (Java 17/21)
+Backup
+Backup & Restore: Thiết lập lịch backup tự động cho mail, database, file; lưu trữ định kỳ
+Backup and storage solutions
+Balsamiq
+Base.vn
+Bash
+Bash Shell
+Bash scripting
+Basic Git
+Basic SQL
+Basic coding skills, such as Java, HTML and other languages
+Basic knowledge in AI/Data
+Basic knowledge of e-commerce
+Basic knowledge of information technology
+Basic knowledge of marketing
+Basic knowledge of other software development methodologies
+Basic networking knowledge
+Basic understanding of cloud services
+Basic understanding of software testing concepts
+Best practices
+Bias & Fairness Testing
+Big Data
+Big Data (hadoop, Spark, Hive)
+Big data frameworks: Hadoop, Spark, Flink, Airflow
+BigData
+BigQuery
+Bitbucket
+Bitrise
+Biz Apps support
+Biến Tần
+Biến tần
+Biết 3D
+Biết VBA là 1 lợi thế
+Biết chụp ảnh sản phẩm
+Biết dựng các hiệu ứng đồ họa title, slide ảnh, intro, animation đơn giản
+Biết edit video cơ bản
+Biết ngôn ngữ lập trình hoặc có kinh nghiệm lập trình
+Biết sử dụng 1 vài tool quản lý bug
+Biết sử dụng AI
+Biết sử dụng PTS
+Biết sử dụng các phần mềm quản lý công việc (Base, Trello, Notion)
+Biết sử dụng các phần mềm thiết kế đồ họa (PTS - Ai..)
+Biết sử dụng laptop
+Biết sử dụng phần mềm đồ họa
+Biết thiết kế 3D là một lợi thế
+Biết thiết kế đồng bộ
+Biết viết test case, test plan
+Black Duck Hub
+BlackDuck
+Blazor
+Blender
+Bloc
+BlockChain
+Blockchain
+Blueprint
+Bluetooth
+Bootstrap
+Bravo
+Bridge
+Brightness contrast
+Brocade
+Budget Management
+Buildroot
+Burp Suite
+Burpsuite
+Business Analysis
+Business Analyst
+Business Development
+Business Intelligence (BI) system
+Business Process Languages (BPEL)
+Business Requirement Documents (BRD)
+Business Workflow Design and Process Optimization
+Business analysis skill
+Business process analysis
+Business process modeling
+Business sense
+Bán hàng
+Báo Cáo Lỗi
+Báo Cáo Lỗi (bug Reporting)
+Báo Cáo Tài Chính
+Báo cháy – báo trộm
+Báo cáo Excel cơ bản
+Bảng tính (Excel)
+Bảo mật
+Bảo mật hệ thống
+Bảo mật hệ thống (Firewall, Antivirus, IDS/IPS)
+Bảo mật hệ thống và dữ liệu
+Bảo mật hệ thống: Có kinh nghiệm về firewall, fail2ban, iptables, SSL, VPN, phân quyền user
+Bảo mật máy tính
+Bảo mật và tuân thủ
+Bảo trì
+Bảo trì camera giám sát
+Bảo trì, bảo dưỡng thiết bị CNTT
+C
+C language
+C programming
+C#
+C# (Windows Form)
+C# (Winform, WPT)
+C# .NET
+C++
+C++ (MFC)
+C++/C#
+C-Sharp
+C/C++
+C/C++ programming
+C/C++ programming for Embedded Development
+C4 diagrams
+CAD
+CAN
+CAN FD
+CAN protocol
+CANVA
+CANoe
+CCIE
+CCNA
+CCNA Security
+CCNA/CCNP Security
+CCNP
+CCNP Routing & Switching
+CCNP Security
+CCTV
+CDN
+CEH
+CEPH
+CGI Compositing
+CI/CD
+CI/CD (Jenkins, Gitlab CI)
+CI/CD Automation
+CI/CD Pipelines
+CI/CD pipeline
+CI/CD pipelines
+CI/CD processes and tools (Jenkins, GitLab, GitHub Actions)
+CI/CD tools
+CI/CD tools (Gitlab CI, Weave Flux, Spinnaker)
+CI/CD tools (Gitlab, Jenkins, Github Action)
+CI/CD tools (Jenkins, Bitbucket Pipeline, ArgoCD)
+CI/CD tools (Jenkins, GitLab CI, GitHub Actions)
+CI/CD tools: Jenkins, GitLab CI, GitHub Actions
+CICD
+CID
+CISA
+CISAM
+CISM
+CISSP
+CMMI
+CORONA
+COUNTIF
+CPQ
+CREO
+CRM
+CRM (HubSpot, Salesforce)
+CRM management
+CRM platforms
+CRM software (Hubspot)
+CRM systems
+CRM systems (Salesforce, Hubspot)
+CRM tools like HubSpot, Salesforce
+CSDL
+CSDL (RDBMS, Graph Databases, NoSQL Products)
+CSDL Oracle
+CSDL – SQL
+CSDL/SQL
+CSS
+CSS (SASS, LESS, Critical)
+CSS (SCSS)
+CSS Framework
+CSS frameworks (Tailwind, Bootstrap)
+CSS3
+CSS3/SCSS
+CTS
+Caching
+Cacti
+Camera
+Camera (Hikvision, Dahua, EZVIZ)
+Camunda
+Camunda Cloud 8
+Canva
+Canva Pro
+Canva pro
+Canvas
+Cap Cut Pro
+CapCut
+CapCut Pro
+Capcut
+Card service systems
+Carthage
+Cassandra
+CassandraDB
+Celery
+CentOS
+CentOS 6/7/8/9
+Central Configuration (Vault, Spring Cloud Config Server)
+Centreon Cloud
+Centric PLM
+Ceph
+Chaos vantage
+Chat GPT
+ChatGPT
+Checklist
+Checkpoint
+Chef
+Chiến lược và kỹ thuật test
+Chuyển đổi số
+Chuẩn mực kế toán VN
+Chuẩn đoán
+Chính sách bảo mật
+Chạy quảng cáo (Facebook, Google, Tiktok)
+Chạy quảng cáo Facebook Ads
+Chẩn đoán và giải quyết các vấn đề kỹ thuật
+Chỉnh sửa Edit video (Capcut, Canvas, Photoshop)
+Chỉnh sửa hình ảnh
+Chỉnh sửa video
+Chỉnh sửa video/gif
+Chứng chỉ CCNA
+Chứng chỉ bảo mật
+Chứng chỉ hành nghề trong lĩnh vực chứng khoán
+Chứng chỉ lập trình
+Chứng chỉ quản lý dự án
+Chứng chỉ đám mây
+Chứng chỉ: CCNA, MCSA, Security+
+Cimatron
+Cinema 4D
+CircleCI
+Cisco
+Cisco MDS
+Cisco Nexus
+Citrix
+Clean Architecture
+ClickHouse
+ClickUp
+Client server
+Closing
+Cloud
+Cloud (AWS, Azure, GCC)
+Cloud (AWS, Azure, GCP)
+Cloud (AWS, GCP, Azure)
+Cloud (AWS/GCP)
+Cloud Azure
+Cloud Computing (AWS, Azure, GCP)
+Cloud Native
+Cloud Security Fundamentals (aws, Azure, Gcp)
+Cloud Solution Associate
+Cloud Vmware
+Cloud architecture
+Cloud computing
+Cloud environments
+Cloud platforms
+Cloud platforms (AWS, CMC, VNG, Viettel, FPT)
+Cloud service (AWS, Azure)
+Cloud services
+Cloud technologies
+Cloud technologies (AWS: Glue, Athena, S3)
+Cloud: AWS, GCP hoặc Azure (EC2, S3, EMR, Kinesis, Glue)
+CloudFormation
+CloudTrail
+CloudWatch
+Cloudflare
+Cloudwatch
+CocoaPods
+Cocos 2d-x
+Cocos Creator
+Code Organization
+CodeIgniter
+Codecanyon
+CodedUI
+Codeigniter
+Coding Convention
+Color balance
+Combine
+Communication stacks (CAN, LIN, UDS, Ethernet)
+Community Cloud
+Community policies
+Commvault
+CompTIA
+CompTIA Security
+Compensation
+Component System
+Compose UI framework
+Compute
+Computer Architecture
+Computer Networking
+Computer Vision
+Computer hardware
+Config Rules
+Confluence
+Console App
+Container knowledge (Docker, Kubernetes, Singularity)
+Container platform Openshift
+Container tools Docker Desktop
+Container/Kubernetes
+Containerization
+Containerization (Docker, AWS ECS, Kubernetes)
+Containerization (Docker, Kubernetes)
+Content
+Content Master
+Content distribution algorithms
+Context API
+Copy.ai
+Core Animation
+Core Banking
+Core Java
+Core T24
+CoreData
+CoreNLP
+Corel
+Corel Draw
+CorelDRAW
+CorelDraw
+Coreldraw
+Corona
+Corona (Rendering and Modelling)
+Corona/Vray
+Coroutines
+Coverity
+Cucumber
+Cucumber framework
+Custom Software Development
+Customer relationship management (CRM) software
+Cyber Security
+Cybersecurity
+Cypress
+Cài win, thay thế linh kiện
+Cài Đặt Hệ Điều Hành
+Cài Đặt Và Cấu Hình Phần Mềm
+Cài đặt
+Cài đặt & cấu hình mail server: Ưu tiên có kinh nghiệm với Zimbra, Mailcow, iRedMail hoặc Exchange
+Cài đặt các phần mềm ứng dụng
+Cài đặt hệ điều hành
+Cài đặt hệ điều hành Windows Server
+Cài đặt hệ điều hành và các ứng dụng
+Cài đặt mail Outlook
+Cài đặt máy tính
+Cài đặt phần mềm máy tính - laptop
+Cài đặt phần mềm trên hệ điều hành windows
+Cài đặt sever
+Cài đặt và bảo trì hệ thống máy tính
+Cài đặt và cấu hình phần mềm
+Cài đặt và cấu hình thiết bị mạng
+Cài đặt, cấu hình, nâng cấp và duy trì hệ điều hành (Windows, macOS, Linux, Java Script)
+Cài đặt, lắp đặt và cấu hình thiết bị công nghệ
+Các công cụ hỗ trợ graphic design
+Các công cụ quản lý dự án
+Các công cụ quản lý sản phẩm khác
+Các giao thức bảo mật
+Các mô hình cung cấp giải pháp dịch vụ công nghệ
+Các phương pháp, công cụ test
+Các phần mềm văn phòng
+Các sản phẩm công nghệ khác
+Các định dạng dữ liệu (NTFS, FAT32, exFAT, EXT)
+Cân bằng game
+Có chứng chỉ quản lý dự án
+Có hiểu biết về công nghệ tài chính (API, Microservices, Cloud, AI/ML)
+Có khả năng lên Testcase
+Có khả năng test qua API
+Có kinh nghiệm bán các sản phẩm, dịch vụ, giải pháp về CNTT (Cloud, phần mềm, hạ tầng)
+Có kinh nghiệm triển khai bản vẽ và vận hành máy CNC
+Có kiến thức về AI
+Có kiến thức về nhiếp ảnh và quay phim
+Có kiến thức về đồ gỗ, kim loại tấm
+Có năng lực lập trình kinh nghiệm từ 07 năm, bao gồm cả front-end và back-end
+Công cụ BI (Tableau, Data Studio, Looker, BigQuery)
+Công cụ ITSM (ServiceNow, Jira)
+Công cụ bán hàng online
+Công cụ giám sát hệ thống (Zabbix, Prometheus)
+Công cụ hỗ trợ nghề ảnh, mỹ thuật & đồ họa
+Công cụ phát triển phần mềm
+Công cụ quản trị dự án
+Công cụ test
+Công cụ tấn công (Burp Suite, Nmap, Wireshark, Metasploit, Cobalt Strike, Empire, Sliver)
+Công nghệ
+Công nghệ AI
+Công nghệ mạng
+Công nghệ mạng hiện đại trong DC như: VXLAN, EVPN, Network Automation
+Công nghệ phần mềm
+Công nghệ thông tin
+Cơ Sở Dữ Liệu (sql, Nosql)
+Cơ khí
+Cơ sở dữ liệu
+Cơ sở dữ liệu (PostgreSQL, MongoDB, Kafka)
+Cơ sở dữ liệu (SQL Server, MySQL)
+Cơ sở dữ liệu NoSQL
+Cơ sở dữ liệu SQL
+Cơ sở dữ liệu quan hệ
+Cơ sở dữ liệu quan hệ RDBMS, NoSQL
+Cải tiến, tư vấn kỹ thuật
+Cấu hình
+Cấu hình Odoo
+Cấu hình RAID
+Cấu hình hệ thống camera IP/analog
+Cấu hình thiết bị mạng
+Cấu hình thiết bị router
+Cấu hình thiết bị switch
+Cấu trúc Dữ liệu
+Cấu trúc dữ liệu
+Cấu trúc dữ liệu và giải thuật
+D5
+D5 Render
+DAST
+DB Oracle
+DB2
+DBF
+DBT
+DGL
+DHCP
+DLP
+DMX
+DNS
+DOM
+DOM manipulation
+DR
+DSP architectures
+Dagger
+Dapper
+Dart
+Dart DevTool
+Data
+Data Analysis & Reporting
+Data Analyst
+Data Domain
+Data Driven Product Development
+Data Engineering / Analytics
+Data Mart
+Data Modeling
+Data Modeling and Schema Design
+Data Processing
+Data Science
+Data Stage
+Data Structures & Algorithm
+Data Studio
+Data Validation Testing
+Data Warehouse
+Data analysis
+Data architecture
+Data flow diagram
+Data labeling
+Data lake
+Data management
+Data modeling
+Data networking (server, Routing, Switching)
+Data platform: Kafka, Snowflake, Redshift, Druid, ClickHouse
+Data studio
+Data visualization techniques and tools
+Data warehouse
+Data warehousing
+Data-Driven Workflow Design and Implementation
+Data.ai
+DataBricks
+DataOps, CI/CD, IaC, container orchestration (Docker, Kubernetes)
+DataStore
+Database
+Database (SQL Server)
+Database (SQL, NoSQL)
+Database Design and Architecture (SQL/NoSQL)
+Database Oracle
+Database Oracle/SQL
+Database Systems
+Database Testing
+Database architecture
+Database maintenance
+Database management
+Database technologies
+Database testing
+Databases
+Databrick
+Databricks
+Datadog
+Datastage
+Datorama
+Debugging tools
+Deep Learning
+Defender for Cloud
+Defold
+Dell
+Dell EMC Data Protection
+DellEMC PowerStore
+Delta Lake
+Demo
+Dependency Injection
+Design Pattern
+Design Patterns
+Design System
+Design Systems
+Design and Modeling tools
+Design pattern
+Design pattern (MVC, MVVC, MVP)
+Desktop support
+Detox
+DevOps
+DevOps (Kubernetes, Docker, Tanzu, OpenShift, Openstack, Ansible)
+DevOps / CI-CD
+DevOps Associate
+DevOps and containerization tools (Docker, Kubernetes)
+DevOps practices
+DevSecOps: Gitlab, Jenkins, SonarQube, Nexus Artifact Repo, JIRA, Confluence
+Devops
+Digital Agency
+Digital Marketing
+Digital commerce platforms
+Digital drawing on Wacom
+Digital marketing
+Digital painting
+Digital solutions implementation
+Dimension
+Dio
+Direct Sale
+Distributed cache (Redis)
+Django
+Docker
+Docker Compose
+Docker Desktop
+Docker Swarm
+Docker containers
+Docs
+Domain Driven design
+Dot NET
+Dragon Bone
+Draw.io
+Drawing by hand
+Drawio
+Dreamweaver
+Drivers
+Durandal
+Dynamic rendering
+Dynamo
+Dịch vụ AWS, Azure, GCP (EC2, S3, IAM)
+Dịch vụ CNTT
+Dịch vụ L2VPN, L3VPN, VPN over Internet
+Dịch vụ mạng
+Dịch vụ server phổ biến: HTTP(S), FTP, SSH
+Dự án công nghệ
+E-Co
+E-commerce platforms (Lazada, Shopee, Tiki)
+E-mail
+EA|PowerDesigner
+EC2
+EE
+EF Core
+EIGRP
+EKS
+ELK
+ELK Stack
+EMC Networker
+EMR
+ERP
+ERP Odoo
+ERP SAP S/4 HANA
+ERP system management
+ERP systems
+ES6+
+ESLint
+ESP-IDF
+ETL
+ETL pipelines
+ETL tools
+ETL tools (Pentaho, Datastage)
+ETL/ELT Pipeline Development
+ETL/ELT technologies
+EVM chains
+EVM-compatible chains
+EVPN
+Eagle
+Echart
+Eclipse
+Eclipse RCP
+Edit video cơ bản
+Edit video sử dụng Capcut
+Effect
+Elastic Beanstalk
+Elastic Search
+Elastic search
+ElasticSearch
+Elasticsearch
+Electron
+Elementor
+Email Exchange
+Email Marketing Platform
+Email Studio
+Email marketing
+Embedded Linux
+Embedded Software Development
+Embedded Systems
+Employee Central
+Endpoint Security
+Enscape
+Enterprise Architect
+Enterprise Linux
+Entity Framework
+Entity Framework (Core)
+Entity Framework Core
+Entity Framework Core ORM
+EnvisionProject
+Espresso
+EtherChannel
+Ethereum
+Event Driven Services
+Event sourcing
+Excel
+Excel Nâng Cao
+Excel nâng cao
+Excel nâng cao (Power Query, Pivot Table)
+Excel: Thành thạo power query, power pivot, hiểu biết các hàm thông dụng
+Excellent knowledge in MS Office
+Exchange
+Exchange Online
+Exchange server Hybrid
+Experience in IT Service Sales
+Experience with JIRA
+Experience with Mobile Device Management (MDM) tools such as Jamf
+Experience with configuration management tools (Ansible, Chef, Puppet)
+Experience with infrastructure monitoring tools (Prometheus, Grafana)
+Experience with multi-tier architectures
+Experience with project management tools
+Express
+Express.js
+ExpressJS
+Extraction Techniques
+Extreme
+F5
+FFMpeg
+FOTA
+Facebook Ads
+Facebook ads
+Familiarity with at least one programming language (e.g., Java, JavaScript, Python)
+Fast API
+FastAPI
+FastApi
+Fastify
+Fetch
+Figma
+Figma basic knowledge
+Figma/Sketch
+Fiori
+Firebase
+Firefly
+Firewall
+Firewall Management
+Firewall policies
+Firewall/NG-Firewall
+Flash Bootloader
+Flash/Animate
+Flask
+Flipper
+Flow
+Flow chart
+Fluter
+Flutter
+Flutter Framework
+Flycam
+Flyway
+Fortify
+Fortinet
+Framework
+Framework JavaScript (Angular 2+, ReactJS, VueJS)
+FreePBX
+FreeRTOS
+Freeswitch
+Front-end build tools
+Frontend
+Frontend Framework (Angular JS, React JS)
+Frontend với Angular (TypeScript)
+Functional Testing
+FusionPBX
+G-Suite
+G-code
+GA4
+GCP
+GCP SCC
+GDB
+GG Driver
+GG Studio
+GIN
+GIS
+GIT
+GORM
+Game Balance
+Game Design
+Game Development
+Game Engine (Unity, Unreal Engine, Godot, v.v.)
+Game Engines
+Game Mechanics
+Game balancing
+Game mechanics
+Gameplay design
+Gas optimization techniques
+GenAI
+Generative AI
+Genero BDL
+Genesys Cloud CX
+Gensim
+Gia công CNC
+Gia công cơ khí
+Giao thức DNS
+Giao thức Layer 02 (VLAN, ARP table, LACP, STP...)
+Giao thức Layer 03 (Static, RIP, OSPF, IS-IS...)
+Giao thức SIP, RTP, WebRTC, STUN/TURN/ICE, NAT Traversal
+Giao thức mạng
+Giao thức mạng (TCP/IP, DNS, DHCP)
+Giao thức mạng (TCP/IP, DNS, DHCP, VLAN, BGP)
+Giao thức mạng Layer 2 & Layer 3: STP, LACP, M-LAG, OSPF, BGP
+Giao thức mạng TCP/IP, DHCP, DNS
+Giao thức truyền thông Serial (RS232), TCP/IP, VISA, GPIB, Modbus
+Giao thức định tuyến và chuyển mạch (Layer2, Layer 3)
+Giao tiếp
+Giao tiếp hiệu quả
+Giao tiếp với khách hàng
+Git
+Git Flow
+GitHub
+GitHub Actions
+GitLab
+GitLab CI
+GitLab CI/CD
+GitOps
+Github
+Gitlab
+Gitlab CI
+Gitlab-CI
+Giám sát hệ thống: Biết sử dụng Nagios, Zabbix, Grafana hoặc bash script theo dõi log
+Giám sát thiết bị mạng
+Giám sát và tối ưu hiệu năng hệ thống
+Giám sát và ứng phó sự cố
+Giải pháp - nền tảng bảo mật
+Giải pháp An toàn thông tin
+Giải pháp CNTT
+Giải pháp Hybrid Cloud (Azure/ AWS/ Google Cloud)
+Giải pháp chuyển đổi số doanh nghiệp
+Giải pháp công nghệ
+Giải pháp phần mềm
+Giải pháp phần mềm doanh nghiệp
+Giải pháp ứng dụng CNTT
+Giải quyết vấn đề
+Giải thuật
+Giải tích
+Global Hiring platforms
+Glue
+Go
+Godot
+Golang
+Good knowledge of document management systems and workflow support services
+Google Ads
+Google Analytics
+Google Analytics 4
+Google CCAI
+Google Cloud
+Google Cloud Platform
+Google Cloud platform
+Google Console
+Google Data Studio
+Google Docs
+Google Drive
+Google Looker Studio
+Google Mail
+Google Maps
+Google Play
+Google Sheet
+Google Sheets
+Google Slide
+Google Slides
+Google Suite
+Google Workspace
+Google Workspace Application
+Google ads
+GoogleMapSDK
+Gradle
+Grafana
+GraphQL
+Graphics libraries
+Graylog
+Groovy
+Group Policy
+Grunt
+GuardDuty
+Gulp
+HAProxy
+HBase
+HMI
+HP-UX
+HPC knowledge and benchmark tool experience (Linpack, HPL)
+HPE
+HPE Data Protector
+HPE Primera
+HRM
+HSM
+HSRP/VRRP
+HTLM
+HTML
+HTML cơ bản
+HTML/CSS
+HTML/CSS cơ bản
+HTML/CSS3/DOM
+HTML5
+HTML5/CSS3
+HTTP
+HTTP 1.1
+HTTP client implementation
+HTTP/1.1, HTTP/2, SFTP, Messaging
+HTTP/2
+HTTP/S
+Hadoop
+Hadoop Eco-System
+Hadoop Ecosystem
+Hadoop ecosystem
+Haproxy
+Hardening
+Hardware knowledge
+Hardware: Server, PC, Laptop, Handheld, Scanner, Printer, Firewall, Router, Switch, Access point, VPN Meraki, Wifi Controller
+Hash table
+Helm
+Hibernate
+Hibernate Frameworks
+Hilt
+Hitachi VSP
+Hive
+Hiểu Biết Về Game Design Document (gdd)
+Hiểu Biết Về Game Online
+Hiểu Biết Về Sản Phẩm Dịch Vụ Phần Mềm
+Hiểu Biết Về Thị Trường IT Outsourcing
+Hiểu biết cơ bản về các lĩnh vực kỹ thuật
+Hiểu biết cơ bản về lập trình hoặc hệ thống phần mềm
+Hiểu biết cơ bản về phần mềm SaaS
+Hiểu biết cơ bản về phần mềm core bảo hiểm phi nhân thọ
+Hiểu biết sâu về quy trình phát triển phần mềm
+Hiểu biết tốt về máy tính, thiết bị di động và các sản phẩm công nghệ khác
+Hiểu biết về Art/Animation/Sound/Code
+Hiểu biết về ITIL hoặc các tiêu chuẩn quản lý dịch vụ khác.
+Hiểu biết về SQL Server
+Hiểu biết về an toàn thông tin, an ninh mạng
+Hiểu biết về bảo mật hệ thống và các công cụ bảo mật (tường lửa, IDS/IPS, SSL/TLS)
+Hiểu biết về các dự án công nghệ thông tin
+Hiểu biết về các giao thức truyền thông (I2C, SPI, UART)
+Hiểu biết về các giải pháp công nghệ thông tin
+Hiểu biết về các sản phẩm phần mềm/phần cứng và công nghệ hiện đại
+Hiểu biết về các sản phẩm và giải pháp công nghệ
+Hiểu biết về hạ tầng CI/CD, Cloud và container
+Hiểu biết về hệ thống Camera giám sát
+Hiểu biết về hệ thống POS
+Hiểu biết về hệ thống máy tính
+Hiểu biết về internet
+Hiểu biết về kiến trúc ARM, SoC
+Hiểu biết về kiến trúc Data Lake, Lakehouse, Data Mesh
+Hiểu biết về lập trình cơ bản
+Hiểu biết về máy tính
+Hiểu biết về mạng LAN/WAN
+Hiểu biết về phần mềm và công nghệ
+Hiểu biết về quy trình phát triển phần mềm
+Hiểu biết về quy trình phát triển phần mềm và các công nghệ liên quan
+Hiểu biết về quy trình vận hành và phát triển sản phẩm theo Scrum/Agile
+Hiểu biết về quy trình đấu thầu dự án
+Hiểu biết về thị trường phát triển phần mềm tại Việt Nam
+Hiểu cơ bản về livestream
+Hiểu rõ quy trình bán hàng B2B
+Hiểu sâu về quy trình sản xuất phần mềm
+Hiểu sản phẩm
+Hiểu về Core Chứng khoán
+Houdini
+Html/Css
+Hubspot
+Hue Saturation
+Hugging Face
+HuggingFace
+HuggingFace Transformers
+Hybrid
+Hybrid architecture
+Hybrid cloud
+Hybrid methodologies
+Hyper-V
+Hình ảnh hóa dữ liệu
+HĐH (Linux/Windows)
+Hướng dẫn sử dụng phần mềm
+Hạ tầng mạng
+Hệ CSDL: SQL/NoSQL (PostgreSQL, MongoDB, Cassandra)
+Hệ QTCSDL
+Hệ màu CMYK/RGB/Pantone
+Hệ quản trị CSDL
+Hệ thống CCTV
+Hệ thống CNTT
+Hệ thống CRM
+Hệ thống Chấm công
+Hệ thống Core Banking
+Hệ thống ERP, MES
+Hệ thống IT
+Hệ thống Microsoft Dynamics AX
+Hệ thống RIS-PACS
+Hệ thống SAP ERP
+Hệ thống Server
+Hệ thống camera
+Hệ thống hạ tầng IT
+Hệ thống lưu trữ
+Hệ thống lưu trữ SAN/NAS, RAID
+Hệ thống máy chủ
+Hệ thống mạng
+Hệ thống mạng (LAN, WAN, VPN)
+Hệ thống mạng (Unifi, Grandstream, Aruba, Ruije, Tplink)
+Hệ thống mạng LAN, WAN
+Hệ thống năng lượng
+Hệ thống phần cứng máy vi tính
+Hệ thống quản lý IT (Helpdesk, quản lý tài sản)
+Hệ thống quản lý cơ sở dữ liệu (SQL Server)
+Hệ thống quản lý văn bản điều hành
+Hệ thống thông tin
+Hệ thống thông tin nội bộ
+Hệ thống tổng đài IP PBX, SIP Trunking, DID, Call Routing, IVR
+Hệ thống điều khiển PLC
+Hệ thống điện công nghiệp
+Hệ Điều Hành Thời Gian Thực (rtos)
+Hệ Điều hành
+Hệ điều hành
+Hệ điều hành (Windows, Linux)
+Hệ điều hành Android
+Hệ điều hành Linux
+Hệ điều hành Linux/Unix
+Hệ điều hành Unix/Linux
+Hệ điều hành Windows
+Hệ điều hành Windows Server
+Học tăng cường (DQN, PPO, SAC)
+Hỗ trợ cài đặt phần mềm
+Hỗ trợ người dùng
+Hỗ trợ vận hành hệ thống mạng
+Hội nghị truyền hình
+I2C
+IAM
+IBM
+IBM Case Manager
+IBM DB2
+IBM DWH
+IBM FS9000
+IBM FileNet P8
+IBM MQ
+IBM Tivoli Spectrum Protect
+IBM V7000
+IDE (Eclipse, IntelliJ, NetBeans)
+IDE XCode
+IDS/IPS
+IEC 61508
+IF
+IIS
+IMU
+IOT
+IP Security
+IP service
+IPC
+IPS
+IPv4
+ISO 14001
+ISO 26000
+ISO 26262
+ISO 27000
+ISO 27001
+ISO 9000
+ISO 9001:2008
+ISO 9001:2015
+IT Security
+IT knowledge in ICT
+IT troubleshooting methodologies
+ITIL
+ITSM Advanced
+ITSM Advanced Certificate
+ITSM tools
+Illustration
+Illustrator
+Illustrator (AI)
+Image processing
+Image-Processing Eco-System
+In Design
+In-App Purchases
+In-depth knowledge of YouTube platforms
+In-vehicle infotainment systems
+InDesign
+Incident Response
+Indesign
+Industrial forums
+Infor
+Infrastructure as Code (IaC)
+Infrastructure as Code (Terraform, Ansible)
+Instrument
+Integration Testing
+Intellij
+Interest or experience in automation testing tools such as Selenium, Katalon, or Postman
+Interface builder
+Internet
+Intune
+Inventor
+Invision
+IoT
+JAVA
+JAVA microservice
+JBOSS
+JDBC
+JDeveloper
+JFrog
+JIRA
+JMeter
+JNI
+JOOQ
+JPA
+JQuery
+JS
+JSON
+JSON/XML
+JSP
+JSP/Servlet
+JUnit
+JUnit5
+JWT
+Japanese language proficiency: N2 level or above
+Java
+Java (Spring Framework, J2EE)
+Java (Spring boot, Kotlin)
+Java (ưu tiên Java 17+)
+Java Application
+Java Core
+Java EE
+Java Server Pages (JSP)
+Java Spring Boot
+Java Web
+Java core
+Java core Back-End
+JavaScript
+JavaScript (ES6+)
+JavaScript ES6
+JavaScript/TypeScript
+JavaScriptMVC
+Javalin
+Javascript
+Javascript (es6+)
+Javascript ES5/ES6+
+Javascript/Typescript
+Jenkins
+Jenkins/GitLab CI
+Jest
+Jetpack Compose
+Jira
+Jmeter
+Journey Builder
+Jquery
+Jsp
+Juniper
+Juniper Router
+Jupyter Notebook
+Jupyter notebook
+K6
+K8S
+K8s
+KMS
+KQL (Kusto Query Language)
+KVM
+Kafka
+Kali
+Kali Linux
+Kanban
+Katalon
+Katalon Studio
+Keras
+Kernel Drivers
+Keycloak
+Keying
+Keyshot
+Keyword Extraction
+Khai phá dữ liệu
+Khai thác lỗ hổng
+Khuôn mẫu
+Khái niệm cơ bản về networking (TCP/IP, DNS, DHCP)
+Khả Năng Sáng Tạo Và Giải Quyết Vấn Đề
+Khả năng giải quyết vấn đề
+Khả năng làm việc nhóm
+Khả năng làm việc với công nghệ hình ảnh
+Khả năng lắp ráp, sửa chữa máy tính
+Khả năng phân tích
+Khả năng phối hợp đa phòng ban
+Khả năng tư vấn sản phẩm
+Khả năng tư vấn và thuyết phục khách hàng
+Khả năng ứng dụng các phần mềm thiết kế đồ họa
+Khảo sát lắp đặt Camera, Thiết bị mạng wifi
+Khắc Phục Sự Cố Phần Cứng
+Khắc phục sự cố
+Khắc phục sự cố Odoo
+Khắc phục sự cố phần cứng
+Khắc phục sự cố phần cứng máy tính
+Khắc phục sự cố phần mềm
+Khắc phục sự cố phần mềm máy tính
+Kibana
+Kinh doanh
+Kinh doanh Bán hàng
+Kinh doanh Thương mại điện tử
+Kinh doanh các sản phẩm Công nghệ
+Kinh doanh dự án outsourcing về CNTT
+Kinh doanh giải pháp CNTT
+Kinh doanh phần mềm
+Kinh doanh sản phẩm Công nghệ
+Kinh doanh sản phẩm phần mềm
+Kinh nghiệm Jira hoặc tương tự
+Kinh nghiệm Sales/Kinh doanh
+Kinh nghiệm Tư vấn/Bán hàng/Sales/CSKH
+Kinh nghiệm automation test
+Kinh nghiệm kinh doanh giải pháp phần mềm
+Kinh nghiệm làm QC IT
+Kinh nghiệm làm dự án/ bài tập lớn về C++
+Kinh nghiệm làm việc liên quan đến sản xuất/ chỉnh sửa 3D
+Kinh nghiệm làm việc với các phần mềm ERP, CRM
+Kinh nghiệm làm việc với các vi điều khiển và vi xử lý
+Kinh nghiệm làm việc với hệ thống ERP
+Kinh nghiệm làm việc với mô hình phát triển agile scrum
+Kinh nghiệm phân tích dữ liệu
+Kinh nghiệm quản lý dự án phần mềm
+Kinh nghiệm quản lý sản phẩm
+Kinh nghiệm sales B2B
+Kinh nghiệm sales về phần mềm
+Kinh nghiệm sử dụng các công cụ AI làm ảnh, video
+Kinh nghiệm sử dụng các hệ thống phần mềm ERP, CRM
+Kinh nghiệm sử dụng phần mềm Postman để test API
+Kinh nghiệm test trên Mobile IT
+Kinh nghiệm test ít nhất 1 năm
+Kinh nghiệm thiết kế giao diện website, UX/UI
+Kinh nghiệm triển khai và vận hành ERP như Odoo, SAP, Microsoft Dynamics
+Kinh nghiệm triển khai, cấu hình và hỗ trợ các giải pháp công nghệ
+Kinh nghiệm trong các dự án về AI
+Kinh nghiệm trong các lĩnh vực thanh toán, sales, ngân hàng, công nghệ hoặc dịch vụ bán lẻ, F&B
+Kinh nghiệm trong lĩnh vực công nghệ
+Kinh nghiệm trong việc xử lý sự cố, bảo trì và nâng cấp phần mềm, phần cứng, Internet
+Kinh nghiệm tư vấn phần mềm ERP
+Kinh nghiệm tạo quan điểm test, test plan, test case bằng tiếng Nhật
+Kinh nghiệm về in ấn và triển khai sản xuất tài liệu, công cụ marketing
+Kinh nghiệm về mạng Internet
+Kinh nghiệm về test DB, test API
+Kinh nghiệm về triển khai phần mềm
+Kinh nghiệm về vận tải đường biển, đường hàng không
+Kinh nghiệm với các nền tảng SaaS
+Kinh nghiệm với các nền tảng Saas
+Kinh nghiệm với dự án áp dụng Agile
+Kinh nghiệm với phương pháp Agile
+Kinh nghiệm với phương pháp Agile, Jira và các công cụ quản lý sản phẩm khác
+Kinh nghiệm xử lý các tài liệu bán hàng (hợp đồng, báo giá, hóa đơn)
+Kinh nghiệm/ chứng chỉ đào tạo về Kế toán
+Kiến Thức Về Game Engine (unity, Unreal Engine, V.v.)
+Kiến Thức Về Mạng Máy Tính
+Kiến Thức Về Phần Cứng
+Kiến Thức Về Ít Nhất Một Engine Game (unity, Unreal Engine, Godot,...)
+Kiến Trúc Hệ Thống Nhúng
+Kiến Trúc Phần Mềm
+Kiến thức ATTT mức căn bản
+Kiến thức OKR, KPI
+Kiến thức an toàn lao động
+Kiến thức chuyên môn về CNTT
+Kiến thức chuyên môn về thiết kế đồ họa trong lĩnh vực bất động sản
+Kiến thức chuyên môn vững chắc trong lĩnh vực CNTT, thiết kế, điện tử viễn thông, truyền thông đa phương tiện
+Kiến thức các công cụ bảo mật trong SOC (SIEM, SOAR, EDR/XDR)
+Kiến thức công nghệ thông tin
+Kiến thức cơ bản về Ae, Ps, Ai
+Kiến thức cơ bản về các hệ quản trị cơ sở dữ liệu
+Kiến thức cơ bản về các hệ thống IT, bao gồm mạng, máy chủ, bảo mật và ứng dụng doanh nghiệp.
+Kiến thức cơ bản về các phương pháp lập kế hoạch SXKD
+Kiến thức cơ bản về các thiết bị mạng như router, switch, firewall
+Kiến thức cơ bản về công nghệ thông tin
+Kiến thức cơ bản về hệ thống phần mềm quản trị, kế toán, bảo hiểm, ứng dụng web, mobile
+Kiến thức cơ bản về kiểm thử phần mềm
+Kiến thức cơ bản về lập trình
+Kiến thức cơ bản về mô hình dữ liệu và quy trình phát triển phần mềm
+Kiến thức cơ bản về mạng LAN/WAN
+Kiến thức cơ bản về mạng máy tính (TCP/IP, LAN, WAN)
+Kiến thức cơ bản về network
+Kiến thức cơ bản về phương pháp quản trị theo mục tiêu
+Kiến thức cơ bản về phần cứng
+Kiến thức cơ bản về phần cứng máy tính
+Kiến thức cơ bản về tài chính
+Kiến thức cơ bản về điện tử
+Kiến thức mỹ thuật ứng dụng
+Kiến thức nền tảng về Network
+Kiến thức nền tảng về công nghệ thông tin và phát triển phần mềm
+Kiến thức nền tảng về kế toán
+Kiến thức nền tảng về network
+Kiến thức nền về livestream
+Kiến thức quy trình vận hành SOC
+Kiến thức sâu rộng về công nghệ Blockchain
+Kiến thức tốt về thương hiệu, màu sắc, hình ảnh
+Kiến thức tổng quan về hệ thống CNTT
+Kiến thức tổng quan về ngân hàng
+Kiến thức và am hiểu sâu sắc về Branding, Typography, Layout, Illustration
+Kiến thức về An toàn thông tin, bảo mật an toàn thông tin
+Kiến thức về BA
+Kiến thức về Công nghệ thông tin
+Kiến thức về Design Pattern
+Kiến thức về Fast/Odoo
+Kiến thức về IT
+Kiến thức về Microsoft Azure
+Kiến thức về Nguyên lý kế toán
+Kiến thức về Odoo
+Kiến thức về Quản lý dự án, và quy trình triển khai dự án
+Kiến thức về TCP/IP
+Kiến thức về TCP/IP, DHCP
+Kiến thức về TCP/IP, Routing, Switching
+Kiến thức về chuẩn bài giảng trực tuyến như SCORM
+Kiến thức về các công cụ giám sát hệ thống và quản lý sự cố
+Kiến thức về các giải pháp công nghệ
+Kiến thức về các mô hình mạng
+Kiến thức về các ngôn ngữ C#/Python
+Kiến thức về các sản phẩm Công nghệ thông tin
+Kiến thức về các số liệu trong vận hành App Mobile và Web
+Kiến thức về các tiêu chuẩn An toàn thông tin quốc tế (ISO 27001, PCI-DSS)
+Kiến thức về công nghệ
+Kiến thức về công nghệ thông tin
+Kiến thức về công nghệ thông tin, phần mềm
+Kiến thức về công nghệ – viễn thông
+Kiến thức về cơ sở dữ liệu (PostgreSQL)
+Kiến thức về game design
+Kiến thức về gia công cơ khí
+Kiến thức về hệ thống công nghệ thông tin
+Kiến thức về hệ thống hạ tầng, ứng dụng và database
+Kiến thức về hệ thống máy tính
+Kiến thức về hệ thống đào tạo trực tuyến
+Kiến thức về hệ điều hành
+Kiến thức về hệ điều hành Linux (Ubuntu, CentOS) hoặc Windows Server
+Kiến thức về kiểm thử phần mềm
+Kiến thức về kỹ thuật (hạ tầng hệ thống, lập trình)
+Kiến thức về lập trình
+Kiến thức về máy tính
+Kiến thức về mạng máy tính
+Kiến thức về mạng viễn thông
+Kiến thức về performance test
+Kiến thức về phân tích game
+Kiến thức về phương pháp, quy trình kiểm thử phần mềm
+Kiến thức về phần cứng
+Kiến thức về phần mềm quản lý giao nhận vận tải
+Kiến thức về quy trình kiểm thử phần mềm
+Kiến thức về quy trình kiểm thử và các phương pháp kiểm thử
+Kiến thức về quy trình phát triển phần mềm
+Kiến thức về quy trình triển khai dự án
+Kiến thức về sản phẩm hạ tầng CNTT (AWS, Google, MS Azure)
+Kiến thức về test dự án thực tế
+Kiến thức về test game
+Kiến thức về thiết bị lưu trữ
+Kiến thức về thiết bị quay, chụp
+Kiến thức về thuật toán
+Kiến thức về vận hành máy phay, tiện, cắt dây và gia công khuôn mẫu
+Kiến thức về điện, điện tử
+Kiến thức vững chắc về an ninh mạng
+Kiến thức vững chắc về hệ thống máy tính
+Kiến trúc Microservice
+Kiến trúc hệ thống
+Kiến trúc hệ thống phần mềm
+Kiến trúc máy tính
+Kiến trúc phần mềm
+Kiến trúc phần mềm: monolith, microservices, event-driven, domain-driven design
+Kiến trúc thiết kế ứng dụng/phần mềm
+Kiểm Soát Ngân Sách
+Kiểm Thử Chức Năng (functional Testing)
+Kiểm Toán
+Kiểm Tra Chất Lượng Phần Mềm
+Kiểm Tra Và Gỡ Lỗi Mạch Điện Tử
+Kiểm soát chất lượng
+Kiểm soát nội bộ
+Kiểm soát rủi ro
+Kiểm soát truy cập
+Kiểm thử
+Kiểm thử API
+Kiểm thử Mobile App
+Kiểm thử UI
+Kiểm thử Web
+Kiểm thử app và web
+Kiểm thử bảo mật
+Kiểm thử chức năng
+Kiểm thử hiệu năng
+Kiểm thử mobile
+Kiểm thử phần mềm
+Kiểm thử phần mềm (STLC)
+Kiểm thử sản phẩm
+Kiểm thử tích hợp
+Kiểm thử tích hợp API
+Kiểm thử tự động
+Kiểm thử xâm nhập
+Kiểm toán
+Kiểm tra chất lượng
+Kiểm tra chất lượng mẫu giày
+Kiểm tra lỗ hổng hệ thống
+Kiểm tra và phát hiện lỗi
+KnockoutJS
+Knowledge Graph
+Knowledge of ERP, CRM systems
+Knowledge of Security Standard (OWASP, TOP10, ...)
+Knowledge of Web/Mobile/Desktop application's vulnerabilities
+Knowledge of banking
+Knowledge of data system
+Knowledge of debt collection
+Knowledge of e-commerce industry
+Knowledge of scientific and technical products
+Knowledge of test methods & processes
+Koin
+Kotlin
+Kotlin Multiplatform Mobile (KMM)
+Kubeflow
+Kubernetes
+Kubernetes (K8S)
+Kubernetes (K8s)
+Kế Toán
+Kế hoạch kiểm thử
+KỸ NĂNG DỰNG TEKLA 3D MODELING
+Kỹ Năng Giao Tiếp Và Thuyết Trình
+Kỹ Năng Lập Kế Hoạch Và Quản Lý Thời Gian
+Kỹ Năng Tìm Kiếm Khách Hàng Tiềm Năng
+Kỹ Năng Đàm Phán Và Thương Lượng
+Kỹ năng BA
+Kỹ năng Microsoft Office tốt
+Kỹ năng SQL nâng cao
+Kỹ năng Scripting để tự động hóa các thao tác vận hành
+Kỹ năng biên soạn video
+Kỹ năng bán hàng
+Kỹ năng bán hàng B2B
+Kỹ năng chăm sóc khách hàng
+Kỹ năng chốt sales
+Kỹ năng chụp ảnh sản phẩm, người mẫu
+Kỹ năng chụp ảnh và xử lý hình ảnh sản phẩm
+Kỹ năng dựng phim
+Kỹ năng giao tiếp
+Kỹ năng giao tiếp bằng tiếng Anh
+Kỹ năng giao tiếp qua điện thoại
+Kỹ năng giao tiếp tiếng Anh tốt (nói và viết)
+Kỹ năng giao tiếp và thuyết trình
+Kỹ năng giao tiếp và đàm phán
+Kỹ năng giải quyết vấn đề
+Kỹ năng gán nhãn dữ liệu chính xác và nhất quán
+Kỹ năng hiểu biết về data governance
+Kỹ năng hoạch định chiến lược kinh doanh
+Kỹ năng làm việc nhóm
+Kỹ năng làm việc với các hệ thống CDP, CRM, BI Platform, Product Analytics Platform
+Kỹ năng lãnh đạo
+Kỹ năng lãnh đạo nhóm
+Kỹ năng lập kế hoạch
+Kỹ năng lập trình (Python, R hoặc ngôn ngữ tương tự)
+Kỹ năng lập trình và phát triển phần mềm
+Kỹ năng lắng nghe tích cực
+Kỹ năng máy tính cơ bản
+Kỹ năng máy tính văn phòng
+Kỹ năng phân tích
+Kỹ năng phân tích nghiệp vụ
+Kỹ năng phân tích nhu cầu báo cáo
+Kỹ năng phân tích nhu cầu đào tạo
+Kỹ năng phân tích tài chính
+Kỹ năng phân tích tình huống
+Kỹ năng phân tích và giải quyết vấn đề
+Kỹ năng phân tích và tổng hợp thông tin
+Kỹ năng phân tích yêu cầu và quy trình nghiệp vụ
+Kỹ năng phản biện
+Kỹ năng quay phim
+Kỹ năng quay video/ edit video cơ bản
+Kỹ năng quản lý
+Kỹ năng quản lý con người
+Kỹ năng quản lý dự án xuất sắc (Agile, Scrum, Waterfall)
+Kỹ năng quản lý thời gian
+Kỹ năng quản lý đội/nhóm
+Kỹ năng quản trị
+Kỹ năng quản trị dự án và quản lý sự thay đổi
+Kỹ năng sắp xếp công việc
+Kỹ năng sử dụng AI và big data
+Kỹ năng sử dụng các công cụ MS Office (Word, Excel, PowerPoint)
+Kỹ năng sử dụng các công cụ phân tích dữ liệu như Python, TensorFlow, PyTorch, SQL
+Kỹ năng sử dụng các công cụ thiết kế và mô hình hóa tài liệu
+Kỹ năng sử dụng các thiết bị ghi hình cơ bản (Máy ảnh, máy quay, flycam, gymbal)
+Kỹ năng sử dụng các tool visualize dữ liệu
+Kỹ năng sử dụng máy tính thành thạo
+Kỹ năng sử dụng máy tính thành thạo (Word, Excel)
+Kỹ năng thiết kế
+Kỹ năng thiết kế chương trình
+Kỹ năng thiết kế và kiến trúc hệ thống Blockchain
+Kỹ năng thiết kế đồ họa
+Kỹ năng thu thập, phân tích nghiệp vụ
+Kỹ năng thu thập, xử lý dữ liệu
+Kỹ năng thuyết phục
+Kỹ năng thuyết trình
+Kỹ năng thực tế với nền tảng dữ liệu lớn: Spark, Hive, Hadoop, Kafka
+Kỹ năng tin học văn phòng
+Kỹ năng tin học văn phòng (Word, Excel, Powerpoint)
+Kỹ năng tin học văn phòng cơ bản
+Kỹ năng trình bày giải pháp theo hướng insight-driven
+Kỹ năng tìm kiếm
+Kỹ năng tìm kiếm thông tin trên internet
+Kỹ năng tư vấn
+Kỹ năng tư vấn khách hàng
+Kỹ năng tổ chức
+Kỹ năng viết tài liệu
+Kỹ năng viết tài liệu chuyên môn CNTT theo chuẩn UML
+Kỹ năng viết tài liệu nghiệp vụ (BRD/SRS/ERD/API Spec/Design Spec)
+Kỹ năng viết tài liệu phân tích
+Kỹ năng văn phòng (Excel, Word, Powerpoint)
+Kỹ năng vẽ quy trình (DFD & ERD)
+Kỹ năng vẽ tay
+Kỹ năng về phân tích các bài toán nghiệp vụ ngành tài chính
+Kỹ năng xây dựng mối quan hệ với khách hàng
+Kỹ năng xử lý tình huống
+Kỹ năng đàm phán
+Kỹ năng đào tạo
+Kỹ năng đánh máy nhanh
+Kỹ năng độc lập
+Kỹ thuật
+Kỹ thuật bảo mật
+Kỹ thuật cài đặt
+Kỹ thuật in ấn
+Kỹ thuật kiểm thử hộp đen
+Kỹ thuật kéo dây
+Kỹ thuật phần mềm
+Kỹ thuật test
+Kỹ thuật thu thập yêu cầu người dùng
+Kỹ thuật tấn công
+LACP
+LAN
+LAN/WAN technologies
+LDAP
+LESS
+LIDAR
+LIN
+LINQ
+LINUX
+LLDB
+LLM
+LLMs
+LPIC
+LWC
+Lakehouse
+Lambda
+Lambda Expressions
+LangChain
+Laravel
+Lark Base
+Lark Suite
+Later
+Lauterback
+Lavravel
+Layout
+Learning
+Lemmatization
+Leonardo
+Leonardo AI
+Level design
+Liferay Commerce
+Liferay DXP
+LightGBM
+Lighting
+Lightning Platform
+Lightroom
+LinQ
+LinkedIn tools
+Linux
+Linux (Centos, Ubuntu, Debian, Redhat)
+Linux (Ubuntu Server / RHEL / CentOS)
+Linux (Ubuntu, CentOS)
+Linux (Ubuntu, CentOS) và networking (firewall, NAT, VPN, VLAN)
+Linux CLI
+Linux Device Drivers
+Linux Kernel
+Linux OS
+Linux environments
+Linux kernel
+Linux systems (Ubuntu/Debian)
+Linux terminal
+Linux/Unix
+LlamaIndex
+Load Balancer
+Log Server
+Log analysis
+Log analysis tools
+Log bug
+Logging
+Loki
+Looker
+Looker Studio
+Low-level drivers
+Low-level programming
+Lucid chart
+Lucidchart
+Lumion
+Làm việc với các nhà máy và đối tác cung ứng
+Làm việc với hệ thống camera
+Lãnh đạo và quản lý đội nhóm
+Lý thuyết điều khiển (PID)
+Lý thuyết đồ thị
+Lưu trữ
+Lưu trữ SAN
+Lưu trữ video
+Lập Kế Hoạch Dự Án
+Lập Kế Hoạch Tài Chính
+Lập Trình Hướng Đối Tượng (OOP)
+Lập Trình Trình Điều Khiển Thiết Bị
+Lập Trình Web (php, Python, Node.js)
+Lập kế hoạch
+Lập kế hoạch dự án
+Lập kế hoạch kiểm thử
+Lập kế hoạch sản phẩm
+Lập ngân sách
+Lập trình
+Lập trình (C#, C++, Java, Lua, v.v.)
+Lập trình (Python, C/C++, Java)
+Lập trình 2D+3D
+Lập trình C
+Lập trình CAM
+Lập trình CNC
+Lập trình CNC bằng Mastercam
+Lập trình Game 3D bằng Unity
+Lập trình Mastercam
+Lập trình PLC
+Lập trình PLC cơ bản (Siemens, Mitsubishi, Delta...)
+Lập trình Scratch
+Lập trình Unity
+Lập trình Web
+Lập trình Web (Front-end, Back-end)
+Lập trình backend
+Lập trình chương trình cho máy chạy
+Lập trình chương trình trên máy gia công CNC
+Lập trình cơ bản
+Lập trình gia công chi tiết cho máy CNC
+Lập trình hướng đối tượng
+Lập trình hệ thống điều khiển chiếu sáng
+Lập trình iOS
+Lập trình máy CNC
+Lập trình máy móc
+Lập trình và cấu hình hệ thống BMS/ELV
+Lập trình và vận hành máy tiện, phay CNC
+Lập trình ứng dụng Java
+Lập trình ứng dụng di động (Android, iOS)
+Lập trình/scripting bằng Bash, Python, hoặc Lua
+Lắp ráp
+Lắp đặt
+Lắp đặt máy văn phòng
+M365 system administration
+MAUI
+MCSA
+MCSE
+MCU peripheral devices (e.g., EEPROM, Flash)
+MCU/SOC hardware manual reading
+MCV
+MERN Stack
+MES
+MFA
+MFC
+MITRE ATT&CK framework
+MLFlow
+MLOps
+MLflow
+MMP (Appsflyer, Adjust)
+MPLS
+MQ
+MQTT
+MS Excel
+MS Office
+MS Office (Power Point, Word)
+MS Office (Word, Excel, PowerPoint)
+MS Office cơ bản
+MS Project
+MS SQL
+MS SQL Server
+MS SQL database server
+MS SQL server
+MSSQL
+MSSQL Server
+MUI
+MVC
+MVC frameworks
+MVP
+MVVM
+MVVM architecture pattern
+MYSQL
+Machine Learning
+Magento
+Mail server
+Malware Analysis
+Management information systems
+Manual Testing
+MariaDB
+Mariadb
+Marketing
+Marketing Cloud
+Marketing Digital
+Marvelous Designer
+Mastercam
+Material design
+Matlab
+Matplotlib
+Maven
+Maxon Cinema 4D
+Maya
+Media Player
+Media Streaming
+Media buying
+Memcached
+Memory dump
+Message Queue
+Message Queue (Kafka, RabbitMQ)
+Message broker (Kafka, IBM MQ, RabbitMQ)
+MessageQueue (Kafka, RabbitMQ)
+Messaging
+Meta Suite
+Metabase
+Metasploit
+Methodologies
+Micro-Service
+MicroService architecture
+MicroService testing
+Microcontroller Unit (MCU)
+Micronaut
+Microprocessor
+Microservice
+Microservice architecture
+Microservices
+Microservices architecture
+Microsoft
+Microsoft 365
+Microsoft 365 Certified
+Microsoft Azure
+Microsoft Defender for Endpoint
+Microsoft Dynamics
+Microsoft Entra ID
+Microsoft Excel (advanced)
+Microsoft Exchange
+Microsoft Fabric
+Microsoft Hyper-V
+Microsoft Office
+Microsoft Office (Excel, Word, PowerPoint)
+Microsoft Office Suite
+Microsoft Office Suite (Excel, Word, PowerPoint)
+Microsoft Office tools (Word, Excel, PowerPoint)
+Microsoft Offices
+Microsoft Project
+Microsoft Purview
+Microsoft SQL
+Microsoft SQL Server
+Microsoft Sentinel
+Microsoft System solution
+Microsoft Visio
+Microsoft Windows systems
+Microsoft Word
+Microsoft office O365/M365
+Mid Journey
+Middleware
+Midjourney
+MinIO
+Minio
+Mino
+Miro
+Misa
+Mixpanel
+MobX
+Mobile
+Mobile App
+Mobile SDK implementation
+Mobile application architecture
+Mobile platform Android+iOS
+Mobile technologies
+Mobile testing
+Mobilgene Studio
+Mocha
+MockK
+Mockito
+Mockup|Wireframe
+Module HR
+Moho
+Monetize bằng IAP
+Mongo
+MongoDB
+Mongodb
+Monitor
+Monitoring
+Monolithic
+Motion Graphic
+Motion graphics
+Mulesoft
+Multi Cloud
+Multi WAN router
+Multi thread
+Multi-processing
+Multimedia frameworks
+Multithread
+My SQL
+MySQL
+MySql
+Mysql
+Máy CNC
+Máy chấm công
+Máy chủ
+Máy chủ (Windows Server, Linux)
+Máy chủ nội bộ
+Máy chủ vật lý (Dell, HP, Lenovo)
+Máy chủ ảo hóa VMware, KVM
+Máy in
+Máy móc
+Máy scan
+Máy tính
+Mô Hình Hóa Dữ Liệu
+Mô hình OSI
+Mô hình client-server
+Mô hình dịch vụ CNTT
+Mô hình hóa dữ liệu
+Mô hình hóa hệ thống
+Mô hình hóa yêu cầu
+Mô hình mạng
+Mô hình mạng Campus
+Mô tả chức năng
+Môi trường giả lập Robot (Mujoco, Pybullet, IsaacGym)
+Mạng
+Mạng (TCP/IP, Routing, Switching, Firewall, VPN, Proxy)
+Mạng LAN
+Mạng LAN/WAN
+Mạng LAN/WAN/Wifi
+Mạng máy tính
+Mạng nội bộ
+Mạng xã hội
+Mỹ thuật ứng dụng
+NAC
+NAS
+NAT
+NER
+NFT market knowledge
+NICE CXone
+NLP
+NLTK
+NPM
+NX
+Nagios
+Nakivo
+Name Entity Recognition
+Native application cho Android và iOS với Java, Swift/Objective-C
+Natural Language Processing
+Naviswork
+Navisworks
+NeoLoad
+Nessus
+NestJS
+NetApp
+NetBackup
+Netapp
+Netbean
+Netezza
+Netteza
+Network
+Network Handling
+Network Programming
+Network Security
+Network administration
+Network and Infrastructure support
+Network architecture & implementation
+Network knowledge
+Network protocols (TCP/IP, DNS, DHCP, etc.)
+Network security tools (antivirus, spam control, firewall policies)
+Network: LAN, SD-WAN, Wifi
+Networking
+Networking (UDP, TCP)
+Networking (firewall, NAT, VPN, VLAN)
+Networking (tcp Ip, Dns, Routing)
+Networking concepts (VPNs, firewalls, DNS, load balancing)
+Networks
+New Relic
+Newrelic
+Next-Gen Firewall
+Next.js
+NextJS
+Nextjs
+Nexus
+Nexus Artifact Repo
+NgRx
+Nghiên cứu thị trường
+Nghiên cứu và cập nhật công nghệ mới
+Nghiên cứu và phân tích thị trường
+Nginx
+Ngân hàng
+Ngân hàng số
+Ngôn ngữ HTML
+Ngôn ngữ lập trình
+Ngôn ngữ lập trình (Python, Java, C++)
+Ngôn ngữ lập trình Odoo
+Ngôn ngữ lập trình Python
+Ngôn ngữ lập trình: C#, Java, SQL
+Nhà thông minh (Homegy, Lumi)
+Nifi
+Nmap
+NoSQL
+NoSQL (DynamoDB, MongoDB)
+NoSQL (MongoDB, Redis)
+NoSQL (MongoDB, Redis, Cassandra)
+NoSQL (MongoDB, Redis, Memcached)
+NoSQL Database
+NoSQL databases
+NoSQL databases (MongoDB, DynamoDB)
+Node
+Node JS Express
+Node js
+Node.JS
+Node.js
+Node.js (NestJS, Express)
+NodeJS
+NodeJS (Express/NestJS)
+Nodejs
+Notion
+Nuke
+NumPy
+Nutanix
+Nuxt 3
+Nắm vững luật thuế
+Nền tảng TCP/IP
+Nền tảng dữ liệu khách hàng (CDP)
+OAuth
+OAuth2
+OBD-II
+ODATA services
+ODI
+OFSAA
+OKR
+OLTP software system
+ONIX
+ONNX
+OOAD
+OOP
+ORM
+ORM framework
+OS: window server 2019, Window10, 11
+OSCP
+OSGi
+OSPF
+OSWE
+Object Oriented Programming (OOP)
+Object Relational Mapping (ORM) Framework
+Object Storage
+Object Storage như Ceph, Swift, Elastic Cloud Storage
+Object-Oriented Programming (OOP)
+Object-oriented programming
+Objective C
+Objective-C
+Observability (ELK, Prometheus, Grafana)
+Odoo
+Odoo Enterprise
+Odoo Project
+Odoo v13 trở lên
+Office
+Office applications (Excel, Word, PowerPoint)
+Omada controller
+On-premises
+Onboarding
+OpenAI API
+OpenAPI
+OpenAPI 3
+OpenCV
+OpenERP
+OpenGL
+OpenID
+OpenShift
+OpenStack
+OpenTelemetry
+Opensense
+Openshift
+Openstack
+Openvpn
+Operating Systems
+Operating Systems (windows, Linux)
+Operations
+Optimization
+Oracle
+Oracle Apex
+Oracle BI
+Oracle DB
+Oracle Data Integrator (ODI)
+Oracle Database
+Oracle Identity Governance (OIG)
+Oracle Identity Manager (OIM)
+Oracle PL/SQL
+Oracle cloud EM
+OracleDB
+OutSystems platform
+Outlook
+PAM
+PC control C#
+PCI DSS
+PDF
+PFsense
+PHOTOSHOP
+PHP
+PHP (Laravel, Yii2, Symfony)
+PHP Laravel
+PHP framework (CodeIgniter, Laravel)
+PHPUnit
+PKI
+PL SQL
+PL/SQL
+PLC
+PLM
+PLSQL
+PR
+PRTG
+PS
+Palo Alto
+Pandas
+Parallel file system knowledge (Lustre, BeeGFS)
+Particle System
+Partner and account-based marketing
+Pattern
+Paylink
+Payload encryption/decryption
+Penetration Testing
+Pentaho
+Pentool
+Performance & Goals
+Performance Testing
+Performance marketing
+Performance metrics
+Performance test
+Performance test (K6, JMeter)
+Performance testing
+Performance traces
+Performance tuning
+Perl
+PgSQL
+Phalcon
+Phay CNC
+Philips Dynalite
+Photo
+Photoshop
+Photoshop (PTS)
+Physic
+Phác thảo tay
+Phát triển SDK
+Phát triển chương trình Delphi
+Phát triển hoặc vận hành hệ thống ETL (Oracle GoldenGate, ODI, Pentaho)
+Phát triển kinh doanh phần mềm SaaS
+Phát triển phần mềm
+Phát triển phần mềm: Agile, Scrum, Waterfall
+Phát triển web
+Phát triển ứng dụng mobile application
+Phân Tích Dữ Liệu Marketing
+Phân Tích Nghiệp Vụ
+Phân Tích Tài Chính
+Phân tích
+Phân tích & thiết kế hệ thống
+Phân tích bảo mật (phân tích log, scan lỗ hổng bằng Nessus/OpenVAS)
+Phân tích chỉ số
+Phân tích dữ liệu
+Phân tích dữ liệu và báo cáo
+Phân tích dữ liệu và xây dựng chiến lược
+Phân tích forensic
+Phân tích hệ thống/phần mềm như: ERP, CRM, ILearning
+Phân tích mã độc
+Phân tích nghiệp vụ
+Phân tích quy trình kinh doanh
+Phân tích rủi ro
+Phân tích sản phẩm và thị trường mobile app
+Phân tích thiết kế hệ thống
+Phân tích thiết kế phần mềm
+Phân tích thị trường
+Phân tích và thiết kế hệ thống
+Phân tích yêu cầu
+Phân tích yêu cầu khách hàng
+Phân tích yêu cầu nghiệp vụ
+Phân tích yêu cầu, số liệu, tài liệu
+Phân tích đối thủ
+Phân tích, thiết kế hệ thống phần mềm
+Phân tích, thiết kế phần mềm
+Phân vùng ổ đĩa
+Phương pháp Agile
+Phương pháp quản lý dự án như PMI, Agile
+Phương pháp tính
+Phần Mềm
+Phần cứng
+Phần cứng (máy chủ, HCI, SAN, storage)
+Phần cứng PC/Laptop
+Phần cứng máy chủ
+Phần cứng máy tính
+Phần mềm
+Phần mềm (Windows, Linux, VMware)
+Phần mềm 3D (Blender, Maya, Cinema 4D)
+Phần mềm AI
+Phần mềm AI hỗ trợ
+Phần mềm Autocad
+Phần mềm CAD/CAM (ưu tiên Mastercam, Inventor)
+Phần mềm CAM
+Phần mềm CAM (Mastercam)
+Phần mềm CAM (Mastercam, NX, Powermill)
+Phần mềm CAM (như Mastercam, Siemens NX, hoặc SolidCAM)
+Phần mềm CRM
+Phần mềm ERP
+Phần mềm ERP (SAP là lợi thế)
+Phần mềm Illustrator
+Phần mềm POS
+Phần mềm Premiere
+Phần mềm Quản lý Bán hàng
+Phần mềm bảo mật
+Phần mềm chỉnh sửa video
+Phần mềm chỉnh sửa ảnh
+Phần mềm chỉnh sửa ảnh 2D
+Phần mềm cắt ghép ảnh
+Phần mềm edit video
+Phần mềm giám sát camera
+Phần mềm hỗ trợ IT
+Phần mềm khám chữa bệnh (His)
+Phần mềm kế toán
+Phần mềm kế toán MISA/FAST
+Phần mềm lập trình PLC (GX Developer, TIA Portal, Ladder Diagram)
+Phần mềm máy tính
+Phần mềm nghiệp vụ
+Phần mềm quản lý F&B
+Phần mềm quản lý doanh nghiệp (ERP, CRM, HRM)
+Phần mềm quản lý doanh nghiệp (ERP, CRM, HRM...)
+Phần mềm thiết kế
+Phần mềm thiết kế CAD (SolidWorks, AutoCAD)
+Phần mềm video
+Phần mềm và phần cứng
+Phần mềm và phần cứng liên quan đến thông tin
+Phần mềm văn phòng
+Phần mềm văn phòng (Microsoft Office)
+Phần mềm văn phòng (Word, Excel, PowerPoint)
+Phần mềm ứng dụng
+Pigma
+Pitstop
+Pixi
+Planner
+Play Store
+Playwright
+Postgre
+Postgre SQL
+PostgreSQL
+Postgres
+PostgresDB
+PostgresQL
+Postgresql
+Postgresql Server
+Postgress
+Postman
+Postman/Newman
+Power Apps
+Power Automate
+Power Automate Desktop
+Power BI
+Power BI Desktop: Xử thành thạo Power Query, Dax, Visualized
+Power BI/Grafana
+Power Point
+Power Shell
+PowerAutomate
+PowerBI
+PowerPoint
+PowerShell
+Powerpoint
+Practical experience in managing BI systems for banking
+Pre
+Preferences
+Premier
+Premier Pro
+Premiere
+Premiere Pro
+Presentation
+Prettier
+PrimeNG
+Private Cloud
+Private cloud
+Pro C
+Process Modeling Notation
+Product Analytics
+Product Delivery
+Product development
+Product management
+Product management tools such as Jira, Trello, or Asana
+Proficiency in Microsoft Office
+Proficiency in scripting languages like Python, Bash, or PowerShell
+Proficient and experienced with Apple products and the macOS operating system
+Proficient in English or Chinese, equivalent to 6.5 IELTS or HSK 5
+Proficient in using Windows and Linux systems
+Proficient in using marketing tools
+Programming
+Programming languages (Python, PHP, Java)
+Programming skills: C/C++, Fortran, Python
+Project Management
+Project management
+Project management methodology (Agile/Scrum, Waterfall)
+Project management software tools
+Project management tools
+Prometheus
+Properties
+Prospecting
+Prototype
+Provider
+Proxmox
+Ps
+Public cloud
+Public cloud (Azure, AWS)
+Pulumi
+Puppet
+Push Notification
+PyG
+PyTorch
+Pytest
+Python
+Python (Django, FastAPI, Flask)
+Python (Django/FastAPI/Flask)
+Python (FastAPI)
+Python (pandas, numpy, matplotlib)
+Python 3.x
+Python Django
+Python, AI: ứng dụng trong quy trình phân tích dữ liệu là lợi thế
+Pytorch
+QA
+QA methodologies
+QC tool
+Qlik
+QoS
+Quay / dựng clip
+Quay dựng video
+Quay dựng video (Premiere Pro, After Effects)
+Quite Imposing Plus
+Quy trình ITIL
+Quy trình Test
+Quy trình gia công cơ khí
+Quy trình phát triển mobile app
+Quy trình phát triển phần mềm Agile/Scrum
+Quy trình phát triển phần mềm linh hoạt (agile)
+Quy trình phát triển sản phẩm
+Quy trình sản xuất phần mềm
+Quy trình thi công
+Quy trình triển khai dự án
+Quy trình triển khai phần mềm/SaaS
+Quản Lý Dự Án
+Quản Lý Mạng Xã Hội
+Quản Lý Ngân Sách
+Quản Lý Phiên Bản (Git)
+Quản Lý Rủi Ro
+Quản Lý Sản Phẩm
+Quản Trị Hệ Thống Web
+Quản lý Backlog
+Quản lý Product Backlog
+Quản lý an toàn thông tin
+Quản lý bán hàng
+Quản lý chi phí
+Quản lý chất lượng
+Quản lý chất lượng sản phẩm
+Quản lý các dịch vụ mạng bao gồm LAN, WAN, VPN, Web Servers, Database Servers
+Quản lý cơ sở dữ liệu Oracle
+Quản lý database server: Biết tối thiểu về MySQL/PostgreSQL, backup và phục hồi dữ liệu
+Quản lý dự án
+Quản lý dự án công nghệ thông tin
+Quản lý dự án như Microsoft Project
+Quản lý dự án phần mềm
+Quản lý dự án theo mô hình Agile Scrum
+Quản lý dự án theo phương pháp Agile
+Quản lý hiệu suất
+Quản lý hạ tầng mạng
+Quản lý hệ thống
+Quản lý hệ thống CCTV
+Quản lý hệ thống chấm công
+Quản lý hệ thống hạ tầng mạng
+Quản lý hệ thống mạng
+Quản lý khách hàng (CRM)
+Quản lý kỹ thuật mạng
+Quản lý lỗ hổng bảo mật
+Quản lý lỗi
+Quản lý máy chủ
+Quản lý mạng nội bộ & kết nối Data Center: Cấu hình IP tĩnh, NAT, port forwarding, quản lý switch/router cơ bản
+Quản lý ngân sách
+Quản lý phần cứng server
+Quản lý phần mềm
+Quản lý quan hệ khách hàng (CRM)
+Quản lý quy trình
+Quản lý quy trình phát triển
+Quản lý quy trình phát triển sản phẩm giày
+Quản lý rủi ro
+Quản lý sản phẩm
+Quản lý sự kiện an ninh
+Quản lý trang web công ty
+Quản lý tài khoản Facebook
+Quản lý tài khoản khách hàng
+Quản lý tài nguyên đám mây
+Quản lý và phát triển phần mềm
+Quản lý yêu cầu
+Quản lý đội nhóm
+Quản trị Hệ Thống Linux
+Quản trị Odoo
+Quản trị các hệ thống của MS như AD, DNS, DHCP, file, TMG
+Quản trị các service
+Quản trị cơ sở dữ liệu
+Quản trị dự án
+Quản trị dự án phần mềm
+Quản trị hệ thống
+Quản trị hệ thống CNTT
+Quản trị hệ thống Linux và Windows Server
+Quản trị hệ thống Linux/Windows
+Quản trị hệ thống Windows Server
+Quản trị hệ thống máy tính
+Quản trị hệ thống mạng
+Quản trị hệ thống nền tảng dữ liệu
+Quản trị hệ thống server
+Quản trị hệ thống và máy chủ (Windows Server, Linux)
+Quản trị hệ điều hành Linux
+Quản trị hệ điều hành server: Thành thạo Linux (Ubuntu/CentOS) và/hoặc Windows Server
+Quản trị mạng
+Quản trị mạng doanh nghiệp
+Quản trị thiết bị mạng (Cisco, Juniper, Fortinet)
+Quản trị web
+R
+RDBMS
+REST
+REST API
+REST APIs
+REST Assured
+REST principles
+REST-full
+REST/SOAP APIs
+RESTAPI
+RESTFUL API
+RESTFul
+RESTFul API
+RESTful
+RESTful API
+RESTful APIs
+RESTful Web Service
+RESTful programming
+RESTful services
+RESTful web services
+REVIT
+RHEL
+ROS
+RPA solutions
+RSA
+RTOS
+Rabbit MQ
+RabbitMQ
+Rabbitmq
+Radium
+Rapid
+React
+React 17+
+React Hook Form
+React JS
+React Native
+React Query
+React Testing Library
+React js
+React native
+React.js
+ReactJS
+ReactJs
+Reactive services
+Reactjs
+Realm
+Recoil
+Recruitment
+Red hat
+Reddis
+Redis
+Redis Cache
+Redis Queue
+Redmine
+Redpanda
+Redshift
+Redux
+Redux pattern
+Redux toolkit
+Regression Testing
+Relational & NoSQL Databases
+Relational Databases
+Relational and NoSQL (Dynamo) Databases
+Relational database (MS SQL, MySQL, Postgre, Oracle)
+Relational databases (PostgreSQL, MySQL)
+Relay
+Report bug
+Requirement analysis
+Research tools
+Resource
+Responsive UI design
+Rest
+Rest API
+RestAssured
+RestFul Api
+Restful
+Restful API
+Restful APIs
+Restful, JMS (IBM MQ), Kafka
+RestfulAPI
+Retrofit
+Reverse Engineering
+Reverse malware
+Revit
+Revit 3D Modeling
+Revit Architecture
+Revit MEP
+Rhino
+Risk Assessment
+Riverpod
+Robot
+Robot Operating System (ROS)
+Room
+Route53
+Routing
+Routing & Switching
+Rubrik
+Ruby
+Ruby on Rails
+Run testcase
+Rust
+RxJS
+RxJava
+RxJava2
+RxSwift
+Rà quét lỗ hổng bảo mật
+S3
+SAN
+SAN Fabric
+SAN or Storage Systems
+SAN storage
+SAN/Backup
+SAP
+SAP CPI
+SAP ECC 6
+SAP ERP
+SAP ERP configuration
+SAP FICO
+SAP HCM
+SAP S/4HANA
+SAP S4/HANA
+SAP SuccessFactors
+SAPUI5
+SAS
+SASB
+SASS
+SASS/SCSS
+SAST
+SCA
+SCADA
+SCCM/SCOM
+SCM (Git, SVN)
+SCSS
+SDK integration
+SDLC
+SDN
+SDWAN
+SELinux
+SEO
+SEO Websites
+SEO optimization techniques
+SFTP
+SIEM
+SOAP
+SOC
+SOLID
+SOQL
+SOW
+SPI
+SPICE
+SQL
+SQL & NoSQL (PostgreSQL, MySQL, MongoDB, Redis)
+SQL (MsSQL/MySQL)
+SQL (MySQL, PostgreSQL)
+SQL (MySQL, PostgreSQL, SQL Server)
+SQL (PostgreSQL/MySQL)
+SQL Alchemy
+SQL Query
+SQL Server
+SQL performance tuning
+SQL server
+SQL tuning
+SQL/NoSQL
+SQL/PLSQL
+SQL/Postgresql cấp độ từ Intermediate
+SQLPlus
+SQLSERVER
+SQLServer
+SQLite
+SQlite
+SSIS
+SSIS, Datastage, ODI, Kafka, Spark, Nifi, Airflow, DBT, Databrick, Redshift
+SSJS
+SSL
+SSO
+STP
+SUMIF
+SVG
+SVN
+SVPN
+SW build tool-chains
+SWOT analysis
+SWR
+SaaS
+Sage
+Sales B2B
+Sales Cloud
+Sales Negotiation Skill
+Sales Online
+Sales consultant pitching
+Sales pipeline management
+Sales process
+Sales tools
+Salesforce
+Salesforce Administration
+Salesforce DX
+Salesforce Data Modeling
+Salesforce Development (apex, Visualforce, Lightning Web Components)
+Salesforce Integration (apis)
+Salesforce Marketing Cloud
+Salesforce Security
+Samba
+Scada
+Scala
+Scenario
+SciPy
+Scikit-Learn
+Scikit-learn
+Scorecard
+Scripting
+Scripting (Bash, PowerShell)
+Scripting ability on Linux based system
+Scripting language
+Scripting languages (Bash)
+Scrum
+Scrum ceremonies
+Scrum framework
+Seaborn
+Security
+Security (quét lỗ hổng mã nguồn, mã hóa mã nguồn, container security, network security)
+Security Architecture
+Security Best Practices (iam, Access Control)
+Security knowledge
+Security-as-Code
+Segment Routing
+Selenium
+Selenium Web Driver
+Selenium WebDriver
+Semgrep
+Sencha Cmd
+Sencha Ext JS
+Sensor
+Sensor Tower
+Sensor tower
+SensorTower
+Sentiment Analysis
+Sentry
+Server
+Server - Client
+Server vật lý
+Service Cloud
+ServiceNow
+Servlet
+Servo
+Setup Waterfall, A/B testing trên Admob mediation, MAX mediation, ironSource mediation
+Shader/Shader Graph
+SharePoint
+Shared Memory
+Shared Preferences
+SheetGPT
+Shell
+Shell scripting
+Shopify
+Shopify Polaris
+SignalR
+Sikuli
+Simulator
+Simulink
+Sitecore CMS
+SkechUp
+Sketch
+Sketch up
+Sketch/XD
+SketchUp
+Sketchup
+SlqAlchemy
+Smart contract development
+SmartLocator
+Snagit
+Snowflake
+Social media operations
+Socket TCP/IP
+Socket.io
+Software
+Software Development Life Cycle (SDLC)
+Software Testing
+Software coding
+Software development processes
+Software knowledge
+Software programming languages
+Software requirement analysis
+Software sales
+Software testing methods
+Software testing processes
+Solarwind
+Solarwinds
+SolidCAM
+SolidWorks
+Solidity
+Solidworks
+Solution Selling techniques
+Sonar Qube
+SonarQube
+Sonarqube
+Sonicwall
+Spark
+Spine
+Splunk
+Spring
+Spring Boot
+Spring Boot 3.x - Java 17/21
+Spring Boot Framework
+Spring Cloud
+Spring Cloud Config Server
+Spring Data
+Spring Data JPA
+Spring Framework
+Spring MVC
+Spring Security
+Spring boot
+Spring boot framework
+Spring cloud Framework
+SpringBoot
+Springboot
+Stable Diffusion
+Stack, Queues, Pipeline, Socket, Boot loader, secure boot
+State Machine Diagram
+State Management (Provider, Bloc)
+State Management (Provider, Bloc, GetX)
+State Management (provider, Bloc, Riverpod, Etc.)
+State management (Provider, Bloc)
+Stemming
+Storage
+Storage (SAN, NAS)
+Store Zustand
+StoreKit
+StoreKit2
+StoryBoard
+Streaming
+Strong knowledge of operating systems and hardware, especially MacBook and iMac
+Strong proficiency in English
+Struts
+Substance 3D Painter/Designer
+Substance Painter
+Swagger
+Swift
+Swift Package Manager
+Swift UI
+SwiftPM
+SwiftUI
+Switching
+Switching/Routing
+Symfony
+Syslog
+System
+System (Platforms, Database, Email, SAN, Security...)
+System Builder
+System Center Configuration Manager (SCCM)
+System Integration Testing
+System Requirement Specification (SRS)
+System integration
+System security
+System/Network/Monitoring
+Sơ đồ điện
+Sơ đồ đấu nối
+Sản phẩm công nghệ
+Số hóa
+Sử Dụng Công Cụ Quản Lý Lỗi (jira, Bugzilla,...)
+Sử Dụng Phần Mềm Thiết Kế EDA (ví Dụ: Altium, Eagle, Kicad)
+Sử dụng AI
+Sử dụng CRM
+Sử dụng Canva
+Sử dụng Chat GPT
+Sử dụng Confluence
+Sử dụng Execl và word thành thạo
+Sử dụng Figma
+Sử dụng Firebase
+Sử dụng Git để quản lý và phối hợp công việc
+Sử dụng Google Analysis
+Sử dụng Google Sheet
+Sử dụng Jira
+Sử dụng Jira ở mức cơ bản
+Sử dụng LinkedIn
+Sử dụng Meta Facebook
+Sử dụng Microsoft Excel
+Sử dụng Microsoft Word
+Sử dụng Photoshop
+Sử dụng Photoshop, Illustrator
+Sử dụng Postman
+Sử dụng Qonversion
+Sử dụng Qtest
+Sử dụng Qtest, Jira, Confluence
+Sử dụng SoapUI
+Sử dụng Tiếng Trung trong giao tiếp và báo cáo
+Sử dụng Wordpress admin
+Sử dụng Youtube admin
+Sử dụng Zalo OA
+Sử dụng Zalo, Facebook
+Sử dụng chatGPT
+Sử dụng các công cụ AI
+Sử dụng các công cụ AI khác
+Sử dụng các công cụ MS Office
+Sử dụng các công cụ báo cáo (ưu tiên Odoo)
+Sử dụng các công cụ giám sát hệ thống
+Sử dụng các công cụ giảng dạy của Google
+Sử dụng các công cụ giảng dạy của Microsoft
+Sử dụng các công cụ khôi phục dữ liệu chuyên nghiệp
+Sử dụng các công cụ như GDB, các công cụ phân tích bộ nhớ
+Sử dụng các công cụ như Jira, TestRail, Postman, Swagger
+Sử dụng các công cụ phân tích sản phẩm
+Sử dụng các công cụ soạn thảo tài liệu
+Sử dụng các công cụ thiết kế game
+Sử dụng các công cụ tìm kiếm khách hàng
+Sử dụng các công cụ vẽ sơ đồ (Visio, Lucidchart, Draw.io)
+Sử dụng các công cụ điều khiển từ xa
+Sử dụng các công cụ/ framework hỗ trợ kiểm thử
+Sử dụng các dụng cụ đo lường
+Sử dụng các tool hỗ trợ cho việc xây dựng tài liệu phân tích yêu cầu và prototype
+Sử dụng các tool như serenity, cucumber, Kataion, git, Jenkin
+Sử dụng các ứng dụng văn phòng
+Sử dụng công cụ AI
+Sử dụng công cụ AI như ChatGPT, Claude, Gamma, DeepSeek
+Sử dụng công cụ modeling như Visio hoặc Enterprise Architect
+Sử dụng công cụ mô hình hóa (visio, visual paradigm)
+Sử dụng công cụ quản lý lỗi (Jira, TestRail, Postman, Firebase Test Lab)
+Sử dụng công cụ quản lý lỗi/test: JIRA, TestRail, Zephyr
+Sử dụng công cụ theo dõi lỗi
+Sử dụng laptop
+Sử dụng máy tính
+Sử dụng máy tính cơ bản
+Sử dụng máy tính thành thạo
+Sử dụng máy tính thành thạo (Word, Excel, Powerpoint)
+Sử dụng máy đo, máy hàn
+Sử dụng online (Zoom, Ultraviewer)
+Sử dụng phần mềm CAM (như Mastercam, Fusion 360, Powermill, Nx Cam, Catia Cam)
+Sử dụng phần mềm CRM
+Sử dụng phần mềm Camtool
+Sử dụng phần mềm Cimatrol
+Sử dụng phần mềm Cimatron
+Sử dụng phần mềm Mastercam Tiện
+Sử dụng phần mềm Storyline
+Sử dụng phần mềm gia công & thiết kế 2D, 3D
+Sử dụng phần mềm giả lập
+Sử dụng phần mềm lập trình
+Sử dụng phần mềm lập trình CNC
+Sử dụng phần mềm quản lý bán hàng
+Sử dụng phần mềm thiết kế
+Sử dụng phần mềm thiết kế kỹ thuật như AutoCad, SketchUp
+Sử dụng phần mềm thiết kế đồ họa (Photoshop, Illustrator, Indesign)
+Sử dụng phần mềm ứng dụng soạn thảo văn bản
+Sử dụng phần mềm: Premiere, After Effect
+Sử dụng thanh thạo công cụ Jira, Confluence
+Sử dụng thành thạo Excel
+Sử dụng thành thạo bộ công cụ thiết kế của Adobe
+Sử dụng thành thạo các công cụ BI như Power BI, Metabase, Google Data Studio
+Sử dụng thành thạo các công cụ CRM
+Sử dụng thành thạo các công cụ design
+Sử dụng thành thạo các công cụ phân tích dữ liệu
+Sử dụng thành thạo các công cụ thiết kế và edit (bộ Adobe, Capcut,...)
+Sử dụng thành thạo các công cụ thiết kế đồ họa như PTS, AI
+Sử dụng thành thạo các công cụ văn phòng
+Sử dụng thành thạo các phần mềm Office (Word, Excel, Powerpoint)
+Sử dụng thành thạo các phần mềm chuyên dụng phục vụ công việc thiết kế
+Sử dụng thành thạo các phần mềm thiết kế
+Sử dụng thành thạo các phần mềm thiết kế đồ họa
+Sử dụng thành thạo các phần mềm thiết kế đồ họa thông dụng
+Sử dụng thành thạo các phần mềm văn phòng (Word, Excel, PowerPoint)
+Sử dụng thành thạo các phần mềm đồ họa (Photoshop, Illustrator, CorelDraw)
+Sử dụng thành thạo công cụ văn phòng (Excel, Word, PowerPoint)
+Sử dụng thành thạo máy tính
+Sử dụng thành thạo máy tính và các phần mềm văn phòng
+Sử dụng thành thạo máy ảnh phục vụ chụp ảnh và quay video truyền thông
+Sử dụng thành thạo phần mềm Autocad
+Sử dụng thành thạo phần mềm CAD/CAM
+Sử dụng thành thạo phần mềm chỉnh sửa video
+Sử dụng thành thạo phần mềm thiết kế đồ họa (Photoshop, Illustrator, Indesign)
+Sử dụng thành thạo tin học văn phòng
+Sử dụng thành thạo vi tính văn phòng
+Sử dụng thành thạo vi tính văn phòng (Word, Excel, Powerpoint, Outlook)
+Sử dụng tin học văn phòng cơ bản: Word, Excel, PowerPoint, Outlook và Internet
+Sử dụng tin học văn phòng thành thạo
+Sử dụng tool để test API
+Sử dụng tốt Excel
+Sử dụng tốt các phần mềm thiết kế đồ họa
+Sử dụng vi tính văn phòng căn bản
+Sửa chữa
+Sửa chữa Laptop, Macbook
+Sửa chữa máy tính
+Sửa chữa máy tính PC, laptop
+Sửa chữa máy tính laptop
+Sửa chữa thiết bị phần cứng
+Sửa chữa điện thoại
+Sửa chữa điện tử phần cứng
+T-SQL
+TCFD
+TCP/IP
+TLS
+Tableau
+Tailwind CSS
+TailwindCSS
+Taiwindcss
+TeamCity
+Teams
+Tech
+Technical knowledge of operating system and database
+Technical support for users
+Telecommunication
+Telesale
+Tenable
+TenableSC
+TensorFlow
+Tensorflow
+Tensorflow Serving
+Terraform
+Test API
+Test API cơ bản
+Test Case
+Test Cases
+Test Plan
+Test Plans
+Test Reports
+Test Script
+Test case
+Test management software (e.g. qTest, Zephyr)
+Test plan
+Test script
+Test-Driven Development
+TestCafe
+TestRail
+Testing frameworks (Unit, Integration, API and Contract Testing)
+Testing methods
+Testing processes
+Testing techniques
+Testing techniques in Agile
+Testing web applications
+Text Representation
+Text-to-SQL
+TextBold
+Texturing
+Thanos
+Thao tác máy tính tốt
+Thao tác với thiết bị mạng
+Theia framework
+Theo Dõi Tiến Độ Dự Án
+Theo dõi thời gian phát triển
+Thi công hạ tầng công nghệ thông tin
+Thi công lắp đặt hệ thống mạng
+Thi công mạng
+Thi công, lắp đặt, cài đặt hệ thống máy tính
+Third-Party Libraries
+Thiết Kế Game
+Thiết Kế Mạch Điện Tử
+Thiết Kế PCB (printed Circuit Board)
+Thiết Kế cơ khí
+Thiết bị công nghệ
+Thiết bị di động
+Thiết bị mạng
+Thiết bị ngoại vi
+Thiết bị ngoại vi (Máy in, scan)
+Thiết bị phần cứng máy tính
+Thiết bị văn phòng
+Thiết bị ánh sáng
+Thiết kế
+Thiết kế 2D
+Thiết kế 2D/3D
+Thiết kế 3D
+Thiết kế 3D SolidWorks
+Thiết kế Game
+Thiết kế Game Cơ Bản
+Thiết kế Gameplay
+Thiết kế Landing page
+Thiết kế Level
+Thiết kế Objects
+Thiết kế Test Case
+Thiết kế Website
+Thiết kế game
+Thiết kế giao diện người dùng
+Thiết kế giải pháp
+Thiết kế giải pháp công nghệ
+Thiết kế giải pháp kỹ thuật
+Thiết kế hình ảnh online
+Thiết kế hình ảnh quảng cáo 2D
+Thiết kế hệ thống
+Thiết kế hệ thống mạng
+Thiết kế kịch bản kiểm thử (UAT)
+Thiết kế lập trình cho các hệ thống như hệ thống Data warehouse, Data lake, lakehouse, API, CI/CD
+Thiết kế mô hình dữ liệu
+Thiết kế mô hình kiến trúc công nghệ
+Thiết kế phần mềm
+Thiết kế trải nghiệm người dùng
+Thiết kế và triển khai giải pháp bảo mật
+Thiết kế điện cực
+Thiết kế đồ họa
+Thiết kế đồ họa (Photoshop, Illustrator)
+Thiết kế, edit videos
+Thiết kế, lập trình máy CNC
+Thiết lập DPI
+Threat Intelligence
+ThreeJS
+Thuyết phục khách hàng
+Thuyết trình
+Thuật toán
+Thymeleaf
+Thành thạo C/C++
+Thành thạo Excel
+Thành thạo GRI Standards
+Thành thạo Jira, Notion, Trello hoặc các công cụ quản lý sản phẩm
+Thành thạo các bản vẽ UML, use case, cấu trúc database
+Thành thạo các bộ công cụ MS Office, Visio, Draw.io
+Thành thạo các công cụ Microsoft Office
+Thành thạo các công cụ giám sát, quản lý báo cáo như Power BI, Grafana, APM
+Thành thạo các công cụ quản lý công việc như JIRA, Microsoft Project
+Thành thạo các công cụ quản lý dịch vụ (các ứng dụng quản lý Manage Engine, Jira, Tivoli ...).
+Thành thạo các công cụ quản lý dự án: Jira, ClickUp, MS Project
+Thành thạo các công cụ thiết kế
+Thành thạo các loại tài liệu: SRS, User Stories
+Thành thạo các phần mềm chuyên ngành
+Thành thạo các phần mềm edit, design ảnh và video
+Thành thạo các phần mềm thiết kế
+Thành thạo các phần mềm về thiết kế hình ảnh chuyên nghiệp
+Thành thạo công cụ quản lý công việc
+Thành thạo công cụ quản lý dự án (JIRA, Trello, Microsoft Project)
+Thành thạo kỹ năng văn phòng
+Thành thạo ngôn ngữ PHP
+Thành thạo phần mềm kế toán (MISA, Fast...)
+Thành thạo phần mềm văn phòng
+Thành thạo tin học văn phòng
+Thành thạo tin học văn phòng (Excel, PowerPoint)
+Thành thạo tin học văn phòng (Word, Excel, PowerPoint)
+Thành thạo tin học văn phòng (Word, Excel, PowerPoint, Visio, Xmind)
+Thành thạo vi tính văn phòng
+Thành thạo đọc và phân tích dữ liệu
+Tháo lắp, thay thế linh kiện
+Tháo lắp, thay thế linh kiện máy tính - laptop
+Thư viện học máy (Scikit-learn, TensorFlow, Keras, PyTorch)
+Thương lượng hợp đồng
+Thương mại điện tử
+Thị giác máy
+Thống kê
+Thực Hiện Test Case
+Thực hiện Test Case
+Thực hiện test phần mềm
+Tier 1 Helpdesk functions
+TikTok Ads
+Tiktok Ads
+Tin học văn phòng
+Tin học văn phòng (Word, Excel)
+Tin học văn phòng (Word, Excel, PowerPoint)
+Tin học văn phòng (Word, Excel...)
+Tin học văn phòng (word; excel; powerpoint)
+Tin học văn phòng cơ bản
+Tin học văn phòng cơ bản (Word, Excel, Zalo, Gmail)
+Tin học văn phòng dạng cơ bản
+Tin học văn phòng tốt
+Tin học văn phòng: Word, Excel
+Tin học văn phòng: Word, Excel, Power Point, Mail Outlook
+Tin học văn phòng: word, excel, power point
+Tiếng Anh
+Tiếng Anh B2
+Tiếng Anh cơ bản
+Tiếng Anh giao tiếp
+Tiếng Hàn TOPIK 4
+Tiếng Hàn thành thạo cả 4 kỹ năng (Topik 5/6)
+Tiếng Nhật
+Tiếng Nhật (nói, Đọc, Viết) Lưu Loát
+Tiếng Nhật N1 hoặc N2
+Tiếng Nhật N1/N2 hoặc tương đương
+Tiếng Nhật N2 trở lên
+Tiếng Nhật sử dụng thành thạo (trình độ tương đương N2 trở lên)
+Tiếng Nhật tối thiểu N2
+Tiếng Nhật từ N2
+Tiếng Nhật từ N2 trở lên
+Tiếng Trung (Nghe, Nói, Đọc, Viết)
+Tool: AD, DNS, DHCP, Web
+Toán rời rạc
+Tracking
+Trello
+TripleO
+TritonServer
+Triển khai ISO
+Triển khai Odoo
+Triển khai dự án trong lĩnh vực y tế
+Triển khai giải pháp giao tiếp với hệ thống khác thông qua API
+Triển khai phần mềm
+Triển khai và vận hành hệ thống VOIP (Asterisk, FreePbx, FreeSWITCH, Kamailio, OpenSIPS, 3CX)
+Triển khai và vận hành phần mềm HIS/EMR
+Triển khai, cài đặt và bảo trì hệ thống mạng
+Triển khai/vận hành hệ thống ERP
+Troubleshoot xử lý sự cố
+Troubleshooting
+Troubleshooting And Problem Solving Skills
+Troubleshooting tools
+Truy vấn cơ sở dữ liệu SQL
+Truy vấn kiểm tra dữ liệu trên CSDL như Oracle, MySQL
+Truy vấn với các hệ cơ sở dữ liệu
+Truy vấn, tổ chức, phân tích dữ liệu
+Ttransformer
+Tuafin
+Type Script
+TypeScript
+Typescript
+Typescript 3
+Typography
+Tài chính
+Tích hợp API
+Tích hợp hệ thống
+Tư Vấn Marketing
+Tư vấn - Bán Hàng
+Tư vấn bán hàng
+Tư vấn dịch vụ
+Tư vấn giải pháp công nghệ
+Tư vấn và phối hợp với các phòng ban
+Tường lửa (Palo Alto, Check Point, FortiGate)
+Tạo bố cục pattern
+Tạo test data
+Tối ưu database
+Tối ưu truy vấn dữ liệu lớn
+Tổng hợp thông tin
+Tủ điện
+Tự động hóa (Larksuite, Make, n8n)
+UART
+UDS (ISO 14229)
+UFT One
+UI
+UI Canvas
+UI Design
+UI Kit
+UI Trend
+UI components & customization/animation
+UI design
+UI testing
+UI/UX
+UI/UX Design
+UI/UX analysis
+UI/UX design
+UI/UX tools (Figma)
+UI/UX trong game casual
+UIKIT
+UIKit
+UML
+UML Activity diagram
+UML knowledge
+UNIX
+UNIX/Linux commands
+UX Analytics
+UX Research
+UX writing
+UX/UI
+UX/UI design
+Understanding of technology
+Understanding of video conferencing systems, especially Google Meet and Logitech equipment
+Unit test
+Unit testing
+Unit/integration test (JUnit)
+Unity
+Unity 3D
+Unity Engine
+Unix/Linux
+Unix/Linux systems
+Unreal
+Unreal Engine
+Unreal Engine 5
+Usability principles
+Use case
+Use case Modeling
+Use case diagram
+User Stories
+User Story
+User case
+User experience analysis
+User story
+User-centered design
+Using Wacom
+V-Ray
+V-ray
+VB
+VB.NET
+VBA
+VFX Software Proficiency (e.g., After Effects, Nuke, Fusion)
+VFX/VFX Graph
+VIPER
+VLAN
+VLOOKUP
+VMWare
+VMware
+VMware ESXi
+VMware Vsan
+VMware vSphere
+VMware vSphere/vCenter
+VOD
+VPC
+VPN
+VPN knowledge
+VPN server
+VRay
+VS Code
+VTS
+Vault
+Vector DBs
+Vector Tools
+Veeam
+Vendor management
+Veritas
+Version Control (git)
+Vert.x
+Vi tính văn phòng
+Vi tính văn phòng (Word, Excel, Power Point)
+Vi tính văn phòng (Word, Excel, Powerpoint, Outlook)
+Video
+Video Animation
+Video annotation
+Video editing tools (Premiere Pro, After Effects, Canva, CapCut)
+Video/Audio Conferencing
+Visio
+Vision System
+Visual Studio
+Visualforce
+Vite
+Viết Nội Dung Marketing
+Viết Testcase
+Viết User Story
+Viết bug
+Viết content
+Viết các trường hợp kiểm thử
+Viết kịch bản kiểm thử
+Viết nội dung
+Viết script (Bash, Python, PowerShell)
+Viết test case
+Viết tài liệu
+Viết tài liệu (User Story, BRD, SRS, ERD, API Spec, Design Spec)
+Viết tài liệu kĩ thuật
+Viết tài liệu mô tả sản phẩm
+Viết tài liệu phân tích thiết kế với công cụ UML, MS Viso
+Viết tài liệu test
+Viết tài liệu thiết kế
+Viết unit test, UI test
+Vmarre
+Vmware
+Vocabulary
+Voice
+Voice Recognition
+Vray
+Vue
+Vue.js
+Vue3+
+VueJS
+VueJs
+Vuejs
+Vulnerability Assessment
+VxLAN
+Vận hành hệ thống
+Vận hành máy CNC
+Vận hành máy CNC (phay, tiện)
+Vận hành máy Phay CNC
+Vận hành máy Tiện CNC
+Vận hành máy phay CNC
+Vận hành máy tiện CNC
+Vận hành nhà máy
+Vẽ Mạch Điện Tử (schematic Capture)
+Vẽ hoạ tiết
+Vẽ mô hình quy trình
+Vẽ nhân vật
+Vẽ thành thạo AutoCAD
+Vẽ trên máy
+WAF
+WAN
+WCF
+WPF
+WPF Application
+Wacom
+Wacom drawing tablet (preferred)
+Waterfall
+Waterfall methodologies
+Web
+Web (IIS)
+Web API
+Web App
+Web Application Security
+Web Applications
+Web Server
+Web Service
+Web Services
+Web Socket
+Web Testing
+Web application development
+Web design
+Web frontend development
+Web server (nginx, apache, tomcat)
+Web socket
+Web technologies
+Web3
+WebForm
+WebLOAD
+WebSocket
+WebSockets
+Webflow
+Webhook
+Webpack
+Webservice RESTful / gRPC
+Webservices (SOAP/RESTful)
+Website trên nền tảng .NET
+Websocket
+Whimsical
+Wi-Fi
+Windows
+Windows Desktop C++/C#
+Windows Server
+Windows Server (AD, DNS, DHCP, File/Print Server)
+Windows Server Administration
+Windows Server knowledge
+Windows and macOS environments
+Windows knowledge
+Windows/Linux Server
+Winform
+Wireframe
+Wireframing software (Figma, Axure, Invision, Balsamiq)
+Wireless
+Wireless mesh network system
+Wireshark
+Word
+WordPress
+Wordpress
+Workflow
+Workflow systems (Camunda or equivalent)
+Working knowledge of cloud platforms (AWS, Azure, or GCP)
+Workload knowledge (Slurm, OpenPBS, JupyterHub)
+World Create
+XCode
+XCode IDE
+XD
+XDR
+XGBoost
+XML
+Xamarin
+Xcode
+Xdebug
+Xuất file đúng chuẩn (PSD, PNG, AI)
+Xác suất thống kê
+Xác thực
+Xác thực đa nhân tố
+Xây Dựng Chiến Lược Marketing
+Xây Dựng Roadmap Sản Phẩm
+Xây dựng Mobile app
+Xây dựng chiến lược kinh doanh
+Xây dựng chiến lược sản phẩm
+Xây dựng chính sách và quy trình bảo mật
+Xây dựng hệ thống văn bản quản lý nội bộ
+Xây dựng kịch bản kiểm thử
+Xây dựng mối quan hệ
+Xây dựng thông số kỹ thuật
+Xây dựng tài liệu nghiệp vụ người dùng
+Xây dựng tài liệu đặc tả yêu cầu nghiệp vụ
+Xử lý các lỗi cơ bản về mạng LAN, WAN
+Xử lý hình ảnh
+Xử lý hình ảnh số
+Xử lý ngôn ngữ tự nhiên (NLP)
+Xử lý sự cố an ninh mạng
+Xử lý sự cố máy tính
+Xử lý sự cố phần cứng
+Xử lý sự cố phần cứng/phần mềm máy tính
+Xử lý sự cố phần mềm
+Yocto
+ZAP
+Zabbix
+Zapier
+Zbrush
+Zephyr
+Zeplin
+ZeroMQ
+ZeroTrust
+Zustand
+after effects
+ajax
+algorithms
+angularjs
+animation
+animations
+antivirus
+argocd
+audio editing
+audio processing
+automated testing tools
+automation (n8n)
+automation testing
+automation tools
+axure
+basic computer architecture
+binder framework
+biết làm video
+bug reports
+bug tracking tools (e.g., JIRA, Bugzilla)
+business development
+c4D
+cSharp
+cache
+canvas
+centreon
+check MK
+child-process
+chính sách
+client sourcing tools
+cloud
+cloud environments
+cloud native
+cloud platforms
+cloud platforms (AWS/Azure)
+cloud platforms (Google Workspace or Microsoft 365)
+cloud-native applications
+clustering
+commercial LLM APIs (OpenAI, Anthropic, etc.)
+communication protocols (e.g., SPI, LIN, CAN, FR, ETH)
+computer networks
+container
+content annotation
+core .NET
+css
+custom source code
+các công cụ phân tích
+các công cụ phân tích dữ liệu
+các công cụ thiết kế
+các công cụ thiết kế khác
+các công cụ trực quan hóa dữ liệu
+các công cụ tìm kiếm khách hàng
+các công cụ và ứng dụng AI
+công cụ wireframe/mockup
+data dashboards
+data mining
+data model
+data models
+data structures
+database
+database (MySQL, PostgreSQL)
+database design
+database management systems (SQL, NoSQL, MongoDB, Redis, MySQL)
+database technologies
+db2wh
+dbt
+debian
+design pattern
+docker
+docker-compose
+dragon bone
+draw.io
+eCommerce
+effects & particles
+email protocols
+embedded software development
+embedded systems
+embeddings
+endpoint management
+es6
+ethers.js
+fastAPI
+figma
+firebase
+firewall
+firmware development
+firmware/driver programming/debugging
+flow
+flutter
+flux
+functional programming
+gRPC
+gdb
+giao tiếp mạch lạc
+git
+gitlab cicd
+giải pháp HA (High Availability)
+giải pháp backup dữ liệu
+giải pháp bảo mật
+giải pháp đồng bộ dữ liệu
+grafana
+hardware drivers
+html
+hệ thống ATS
+hệ thống lưu trữ NAS
+hệ thống ảo hóa VMWare
+hệ điều hành
+i18n
+iD
+iOS
+iOS (Swift/Objective-C)
+iOS SDK
+iOS native
+illustrator
+inter-process communication
+interrupt handling
+iptables
+jQuery
+javascript
+javascript development tools
+javascript/jquery
+jenkins
+jquery
+k8s
+khả năng đọc, hiểu code
+kiến thức nền tảng về CNTT
+kolla-ansible
+kỹ thuật thống kê
+layer 2 switching
+layer 3 routing
+ldap
+load balancing
+low-level code for device registers
+lập trình IOS
+lập trình hướng đối tượng
+lập trình web
+macOS
+machine learning concepts and algorithms
+manual testing
+mariaDB
+market research
+material ui
+matplotlib
+maya
+memory management
+micro service
+microservices
+microservices architecture
+microservices architectures
+mobile technologies
+mockup API
+motion design
+multi-thread
+multi-threading
+multithreading
+mybatis
+mysql
+mô hình hóa dữ liệu
+n8n opensouce
+network
+network (Cisco, Juniper)
+network protocols
+network protocols (TCP/IP, OSI model)
+network/system security
+networking
+nghiên cứu hệ thống
+nginx
+noSQL
+noSQL databases (Cassandra, Redis, Neo4J)
+node.js
+nodejs
+npm
+numpy
+nền tảng ATTT
+packet processing
+pandas
+perf
+photoshop
+php
+physics
+phân tích thị trường
+phân tích yêu cầu
+phần mềm quản lý
+phần mềm quản lý doanh nghiệp ERP
+premier
+product configurators
+pytorch
+quality assurance processes
+quản lý khách hàng (CRM)
+quản trị vận hành SOC
+radius
+raw query
+react native
+react-testing-library
+reactjs
+recommend system
+redux
+regression testing
+rendering
+responsive web design
+restful api
+rocky linux
+router
+routing
+routing & switching
+rxjs
+sass/scss
+scikit-learn
+segmentation techniques
+semantic search
+shell scripting
+sklearn
+socket
+software development
+spam control
+speedtree
+spine
+state management (NgRx, Akita, Ngxs)
+state management (Redux, Context)
+storage SAN
+strategic planning
+substance designer
+svn
+switch
+switching
+system
+system integration testing
+tcpdump
+tensorflow
+test cases
+test management software
+text classification
+texture
+thiết kế CSDL
+threejs
+thuyết trình
+tin học văn phòng
+tin học văn phòng (Word, Excel, PowerPoint)
+transaction
+troubleshooting LAN/WAN performance
+typescript
+typography
+ubuntu
+uni-app
+vRealize Suite
+valgrind
+vector database
+vector databases
+version control systems (e.g., Git, Gitflow, GitLab)
+visio
+visual commerce
+vmware esxi
+voice acting
+vueJs
+vẽ mockup
+vẽ sơ đồ usecase
+wagmi
+web
+web communication protocol
+web server
+web technologies
+web-based development
+web3.js
+webpack
+writing test plans
+yarn
+zabbix
+Điện toán đám mây
+Đàm phán
+Đàm phán và thương lượng
+Đào tạo
+Đào tạo và phát triển nhân sự
+Đánh giá bảo mật
+Đánh giá kiểm soát
+Đánh giá rủi ro
+Đánh giá rủi ro bảo mật
+Đánh giá rủi ro và kiểm tra bảo mật
+Đại số
+Đại số tuyến tính
+Đấu nối
+Đọc bản vẽ
+Đọc bản vẽ gia công
+Đọc bản vẽ kỹ thuật
+Đọc hiểu bản vẽ
+Đọc hiểu bản vẽ kỹ thuật
+Đọc hiểu bảng vẽ gia công
+Đọc hiểu sơ đồ BPMN
+Đọc hiểu tài liệu kỹ thuật
+Đọc và hiểu bản vẽ
+Đọc và hiểu bản vẽ kỹ thuật
+đàm phán hiệu quả
+định hướng sản phẩm
+Ưu Tiên Hóa Các Tính Năng
+Ảo hóa
+Ảo hóa (VMware, Hyper-V)
+Ảo hóa (VMware, Proxmox)
+Ảo hóa (Vmware vSphere, Microsoft Hyper-V...)
+ảo hoá Vmware vSphere/Hyper-V
+ảo hóa
+Ứng dụng AI vào công việc hiệu quả
+Ứng dụng công nghệ và phần mềm
+Ứng dụng di động
+Ứng dụng ảo hóa/cloud
