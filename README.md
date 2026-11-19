@@ -1,165 +1,88 @@
 # Association Rule-Based Skill Recommendation
 
-A data-mining project using the VietJobs_IT recruitment dataset to discover job-role skill requirements and evaluate context-aware next-skill recommendations. Apriori and FP-Growth are compared with task-matched baselines rather than only a global popularity benchmark.
+A VietJobs_IT data-mining project that studies job-role skill requirements and context-aware skill recommendations. The notebooks document data cleaning and modeling step by step.
 
----
+## Problem 1 — Role + Experience → Skills
 
-## Research Problems
+**Goal (EN).** Discover technical skills associated with a job role and experience level using Apriori and FP-Growth. Compare the rules with a frequency baseline that ranks skills by how often they appear in the same role–experience group.
 
-### Problem 1 — Job Role to Technical Skills
+**Mục tiêu (VI).** Khai phá kỹ năng chuyên môn gắn với từng nhóm vị trí và kinh nghiệm. Baseline đếm tần suất skill trong đúng nhóm role–kinh nghiệm, không lọc bằng support, confidence hay lift. Vì vậy, đây là đối chứng trực tiếp cho luật kết hợp.
 
-Discover `ROLE → skill` associations and test whether filtered association rules improve ranking over counting skill frequency within the same role. Evaluation uses stratified 5-fold cross-validation. This role-conditioned popularity baseline is intentionally strong because it captures the same role-to-skill frequency information without support, confidence, or lift filtering.
+### Results / Kết quả
 
-Mine luật ROLE → skill và kiểm tra xem luật sau khi lọc support/confidence/lift có xếp hạng tốt hơn việc đếm tần suất skill trong cùng role hay không. Đánh giá bằng stratified 5-fold cross-validation.
+Five-fold cross-validation. `K` is the number of top recommendations scored. The table reports mean Precision@K, Recall@K, Hit@K and NDCG@K.
 
-Baseline là Role Popularity: với mỗi role, đếm tần suất từng skill trong train rồi xếp hạng. Baseline này không lọc support/confidence/lift, nên giữ được cả skill ít gặp mà bước lọc luật có thể đã loại bỏ
-
-### Problem 2 — Next-Skill Recommendation from Role and Known Skills
-
-Given a role and skills already known, recommend a relevant skill using contextual rules equivalent to `{ROLE, known skill(s)} → next skill`. Evaluation hides skills from held-out postings and tests whether the models recover them. This is a masked-skill recovery experiment, not a real chronological learning sequence.
-
-Cho một role và một số skill đã biết, gợi ý skill tiếp theo bằng luật ngữ cảnh dạng {ROLE, known skill(s)} → next skill. Cách đánh giá: giấu đi một phần skill của tin tuyển dụng trong test, dùng các skill còn lại làm ngữ cảnh, rồi kiểm tra mô hình có khôi phục được các skill bị giấu hay không. Đây là thí nghiệm masked-skill recovery, không phải mô phỏng thứ tự học thực tế.
-
----
-
-## Results
-
-Dữ liệu gồm các tin tuyển dụng IT đã qua tiền xử lý, tách thành 10 nhóm role và trích xuất danh sách skill kỹ thuật. Chi tiết tiền xử lý nằm trong notebooks/EDA_and_Preprocessing.ipynb.
-
-Metric dùng trong cả hai bài toán:
-
-- Precision@K — số skill liên quan trong K gợi ý đầu chia cho K.
-
-- Recall@K — số skill liên quan trong K gợi ý đầu chia cho tổng số skill đích của query.
-
-- Hit@K — tỷ lệ query có ít nhất một skill liên quan trong K gợi ý đầu.
-
-- NDCG@K — chất lượng xếp hạng, ưu tiên skill liên quan xuất hiện sớm.
-
-- Coverage — tỷ lệ slot gợi ý (trong K slot) mà mô hình thực sự điền được. Precision vẫn lấy K làm mẫu số khi mô hình trả ít hơn K gợi ý, nên coverage giúp thấy rõ giới hạn này.
-
-K là số gợi ý đầu được chấm (K=5, K=10), không phải số fold. Điểm trong bảng là trung bình qua 5 fold; độ lệch chuẩn nằm trong các file CSV kết quả.
-
-### Problem 1: Job Role → Technical Skills
-
-Mine luật `ROLE → skill` và kiểm tra xem luật sau khi lọc support/confidence/lift có xếp hạng tốt hơn việc đếm tần suất skill trong cùng role hay không. Đánh giá bằng stratified 5-fold cross-validation.
-
-Baseline là **Role Popularity**: với mỗi role, đếm tần suất từng skill trong train rồi xếp hạng. Baseline này không lọc support/confidence/lift, nên giữ được cả skill ít gặp mà bước lọc luật có thể đã loại bỏ.
-
-| Model | Precision@5 | Recall@5 | Hit@5 | NDCG@5 | Precision@10 | Recall@10 | Hit@10 | NDCG@10 |
+| Model | P@5 | R@5 | Hit@5 | NDCG@5 | P@10 | R@10 | Hit@10 | NDCG@10 |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|
-| Apriori | 0.282 | 0.331 | 0.675 | 0.411 | 0.172 | 0.367 | 0.708 | 0.397 |
-| FP-Growth | 0.282 | 0.331 | 0.675 | 0.411 | 0.172 | 0.367 | 0.708 | 0.396 |
-| **Role Popularity baseline** | **0.315** | **0.384** | **0.744** | **0.448** | **0.232** | **0.527** | **0.841** | **0.484** |
+| Apriori | 0.275 | 0.328 | 0.662 | 0.407 | 0.169 | 0.362 | 0.687 | 0.394 |
+| FP-Growth | 0.275 | 0.328 | 0.662 | 0.407 | 0.169 | 0.362 | 0.687 | 0.394 |
+| Popularity baseline | 0.314 | 0.385 | 0.744 | 0.449 | 0.230 | 0.522 | 0.842 | 0.483 |
 
-Baseline thắng ở cả 4 metric với K=5 và K=10. Coverage của baseline là 1.00, trong khi luật phủ trung bình 0.777 (K=5) và 0.521 (K=10). Nghĩa là khi antecedent chỉ có role, luật gần như chỉ phản ánh lại tần suất skill trong role; bước lọc support/confidence/lift còn làm mất một phần candidate hữu ích. Với dữ liệu và ngưỡng hiện tại, luật ROLE → skill chưa cải thiện xếp hạng so với đếm tần suất theo role.
+**Result (EN).** The role–experience popularity baseline scores higher than both association-rule models on all four quality metrics at K=5 and K=10. Apriori and FP-Growth produce the same average of about 148 rules per fold. Apriori is faster in this run; FP-Growth uses less measured Python memory.
 
-| Model | Median runtime (s) | Mean rules per fold | Median Python memory (MB) |
+**Kết quả (VI).** Baseline phổ biến theo role–kinh nghiệm cao hơn hai mô hình luật ở cả bốn chỉ số tại K=5 và K=10. Apriori và FP-Growth tạo trung bình khoảng 148 luật mỗi fold. Lần chạy này Apriori nhanh hơn, còn FP-Growth dùng ít bộ nhớ Python được đo hơn.
+
+| Model | Median runtime (s) | Mean rules/fold | Median memory (MB) |
 |---|---:|---:|---:|
-| Apriori | 0.242 | 58.4 | 51.965 |
-| FP-Growth | 0.536 | 58.4 | 3.180 |
-| Role Popularity baseline | 0.016 | N/A | 0.383 |
+| Apriori | 0.656 | 147.8 | 87.127 |
+| FP-Growth | 1.305 | 147.8 | 4.208 |
+| Popularity baseline | 1.620 | N/A | 0.680 |
 
-Bộ nhớ đo bằng `tracemalloc`, không bao gồm toàn bộ cấp phát native của NumPy/pandas. File benchmark có kèm độ lệch chuẩn theo fold.
+Memory is measured with Python `tracemalloc`. Results and a combined chart: [summary.csv](result/problem_1/summary.csv) · [summary figure](result/problem_1/figures/summary.png).
 
-**Figures:** [Recommendation quality](result/problem_1/figures/recommendation_quality.png) · [Runtime, rule count, and memory](result/problem_1/figures/benchmark.png)
+## Problem 2 — Role + Experience + Known Skills → Next Skill
 
-**CSV files:** [Quality metrics (mean and standard deviation)](result/problem_1/quality_metrics.csv) · [Fold-level scores](result/problem_1/quality_metrics_by_fold.csv) · [Benchmark](result/problem_1/benchmark.csv) · [Apriori rules](result/problem_1/rules_apriori.csv) · [FP-Growth rules](result/problem_1/rules_fpgrowth.csv) · [Per-role rule coverage](result/problem_1/role_coverage.csv)
+**Goal (EN).** Given a role, experience level and known skills, recommend another skill. Apriori/FP-Growth mine skill-to-skill rules within each role–experience group. The hybrid keeps rule matches first and fills remaining positions with role–experience popularity. The baseline ranks only by role–experience popularity. Test queries hide 20% of the skills in a held-out posting.
 
-### Problem 2: Next-Skill Recommendation from Role and Known Skills
+**Mục tiêu (VI).** Từ role, exp và skill đã biết, gợi ý skill tiếp theo. Bản hybrid ưu tiên luật phù hợp rồi bù danh sách còn thiếu bằng skill phổ biến trong đúng nhóm role–exp. Baseline chỉ xếp hạng theo độ phổ biến của nhóm. Mỗi truy vấn test ẩn 20% skill của tin tuyển dụng.
 
-Đánh giá trên 1.289 query test hợp lệ. Mỗi query giấu 20% skill của tin trong test; phần còn lại làm ngữ cảnh; skill bị giấu là đích. Baseline là Role Popularity: xếp hạng skill theo tần suất trong role, loại các skill đã biết. Baseline thấy role nhưng không dùng tổ hợp skill đã biết, nên phép so sánh kiểm tra được liệu luật ngữ cảnh có thêm thông tin ngoài tần suất role hay không.
+### Results / Kết quả
 
+Stratified 5-fold cross-validation. `K` là số gợi ý đầu được chấm; các điểm là trung bình qua 5 fold. Xem bảng từng fold, độ lệch chuẩn và cách diễn giải trong notebook Problem 2.
 
-| Model | Precision@5 | Recall@5 | Hit@5 | NDCG@5 | Precision@10 | Recall@10 | Hit@10 | NDCG@10 |
+| Model | P@5 | R@5 | Hit@5 | NDCG@5 | P@10 | R@10 | Hit@10 | NDCG@10 |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|
-| Apriori contextual rules | **0.141** | 0.427 | 0.541 | **0.386** | 0.081 | 0.475 | 0.584 | 0.405 |
-| FP-Growth contextual rules | **0.141** | 0.427 | 0.542 | **0.386** | 0.081 | 0.475 | 0.584 | 0.405 |
-| **Role Popularity baseline** | 0.124 | **0.439** | 0.540 | 0.373 | **0.085** | **0.570** | **0.683** | **0.422** |
+| Apriori rules | 0.115 | 0.367 | 0.477 | 0.330 | 0.070 | 0.416 | 0.519 | 0.351 |
+| FP-Growth rules | 0.115 | 0.367 | 0.476 | 0.330 | 0.070 | 0.416 | 0.519 | 0.350 |
+| Apriori + fallback | 0.142 | 0.483 | 0.598 | 0.403 | 0.091 | 0.597 | 0.707 | 0.446 |
+| FP-Growth + fallback | 0.142 | 0.482 | 0.597 | 0.403 | 0.091 | 0.597 | 0.707 | 0.446 |
+| Popularity baseline | 0.120 | 0.424 | 0.519 | 0.360 | 0.080 | 0.548 | 0.653 | 0.405 |
 
-Ở K=5, luật nhỉnh hơn baseline về Precision (0.141 so với 0.124) và NDCG (0.386 so với 0.373), nhưng Recall thấp hơn và Hit gần như hòa. Ở K=10, baseline thắng cả 4 metric. Coverage của luật trung bình 0.691 (K=5) và 0.532 (K=10), so với 1.00 của baseline.
+**Result (EN).** The Apriori hybrid improves on the popularity baseline across all four reported quality metrics at K=5 and K=10. For example, Recall@5 rises from 0.424 to 0.483, and NDCG@10 rises from 0.405 to 0.446. Recommendation coverage reaches 1.00 because popularity fills positions when rules return too few candidates. This is a measured improvement on masked-skill recovery, not proof of a real learning sequence.
 
-Kết luận: ngữ cảnh skill đã biết giúp ích một chút ở top ngắn (K=5), nhưng chưa đủ để vượt baseline trên toàn bộ danh sách. Apriori và FP-Growth cho kết quả gần như trùng nhau, khác biệt chủ yếu ở tài nguyên.
+**Kết quả (VI).** Mô hình hybrid Apriori cao hơn baseline phổ biến ở cả bốn chỉ số tại K=5 và K=10. Recall@5 tăng từ 0.424 lên 0.483; NDCG@10 tăng từ 0.405 lên 0.446. Coverage đạt 1.00 nhờ fallback lấp các vị trí luật chưa gợi ý được. Đây là cải thiện trên bài kiểm tra khôi phục skill bị ẩn, không chứng minh thứ tự học thực tế.
 
-| Model | Median runtime (s) | Mean rules per fold | Median Python memory (MB) |
+| Model | Median runtime (s) | Mean rules/fold | Median memory (MB) |
 |---|---:|---:|---:|
-| Apriori | 1.908 | 10,015.4 | 8.682 |
-| FP-Growth | 2.333 | 10,015.4 | 8.868 |
-| Role Popularity baseline | 0.019 | N/A | 0.384 |
+| Apriori rules | 9.210 | 19,120.6 | 14.661 |
+| FP-Growth rules | 9.441 | 19,120.6 | 15.071 |
+| Apriori + fallback | 10.567 | 19,120.6 | 14.661 |
+| FP-Growth + fallback | 10.743 | 19,120.6 | 15.071 |
+| Popularity baseline | 1.499 | N/A | 0.679 |
 
-Memory is measured with Python `tracemalloc` and does not include all native NumPy/pandas allocations. The benchmark CSV also reports fold-level standard deviations.
-
-**Figures:** [Recommendation quality](result/problem_2/figures/recommendation_quality.png) · [Runtime, rule count, and memory](result/problem_2/figures/benchmark.png)
-
-**CSV files:** [Quality metrics (mean and standard deviation)](result/problem_2/quality_metrics.csv) · [Fold-level scores](result/problem_2/quality_metrics_by_fold.csv) · [Quality by role](result/problem_2/quality_by_role.csv) · [Benchmark](result/problem_2/benchmark.csv) · [Apriori rules](result/problem_2/rules_apriori.csv) · [FP-Growth rules](result/problem_2/rules_fpgrowth.csv) · [Per-role rule coverage](result/problem_2/role_coverage.csv) · [Recommendation examples](result/problem_2/recommendation_examples.csv)
-
----
-
+Memory is measured with Python `tracemalloc`. Download the saved model: [skill_recommender.joblib](models/skill_recommender.joblib). Open [Recommendation_Demo.ipynb](notebooks/Recommendation_Demo.ipynb) to choose role, exp, known skills and K. Full results and chart: [summary.csv](result/problem_2/summary.csv) · [summary figure](result/problem_2/figures/summary.png).
 
 ## Project Structure
 
 ```text
 skill-recommendation-using-association-rules/
 ├── data/
-│   ├── raw/
-│   │   └── VietJobs_IT.csv
-│   └── processed/
-│       ├── processed_jobs.csv
-│       ├── processed_skills.csv
-│       ├── transaction_matrix.csv
-│       └── unique_skills.txt
-├── docs/
-│   ├── Apriori.md
-│   ├── Association Rules.md
-│   ├── Confidence.md
-│   ├── FP-Growth.md
-│   ├── Lift.md
-│   └── Support.md
+│   ├── raw/VietJobs_IT.csv
+│   └── processed/  # cleaned jobs, skills, transactions
+├── docs/           # notes on association rules and algorithms
 ├── notebooks/
 │   ├── EDA_and_Preprocessing.ipynb
 │   ├── Problem_1.ipynb
-│   └── Problem_2.ipynb
+│   ├── Problem_2.ipynb
+│   └── Recommendation_Demo.ipynb
+├── models/skill_recommender.joblib
 ├── result/
 │   ├── problem_1/
-│   │   ├── figures/
-│   │   ├── benchmark.csv
-│   │   ├── quality_metrics.csv
-│   │   ├── quality_metrics_by_fold.csv
-│   │   ├── role_coverage.csv
-│   │   ├── rules_apriori.csv
-│   │   └── rules_fpgrowth.csv
+│   │   ├── figures/summary.png
+│   │   └── summary.csv
 │   └── problem_2/
-│       ├── figures/
-│       ├── benchmark.csv
-│       ├── quality_by_role.csv
-│       ├── quality_metrics.csv
-│       ├── quality_metrics_by_fold.csv
-│       ├── recommendation_examples.csv
-│       ├── role_coverage.csv
-│       ├── rules_apriori.csv
-│       └── rules_fpgrowth.csv
-├── .gitignore
+│       ├── figures/summary.png
+│       └── summary.csv
 ├── README.md
 └── requirements.txt
 ```
-
----
-## How to run
-
-```text
-pip install -r requirements.txt
-```
-
-Then, run:
-
-- notebooks/EDA_and_Preprocessing.ipynb
-
-- notebooks/Problem_1.ipynb
-
-- notebooks/Problem_2.ipynb
-
-Finally, see your output in:
-
-- result/problem_1
-
-- result/problem_2
